@@ -781,15 +781,15 @@
 
 ### **Citations**
 
-**7** [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)\
-**7** [**Ethereum**](https://ethereum.org/en/whitepaper/)\
-**7** [**Cosmos**](https://v1.cosmos.network/resources/whitepaper)\
-**10** [**Tendermint**](https://docs.tendermint.com)****\
-**11** [**Application Blockchain Interface**](https://github.com/tendermint/abci)\
-**12** [**Inter Blockchain Communication**](https://ibcprotocol.org)****\
-**18** [**BigChainDB**](https://github.com/bigchaindb/bigchaindb)\
-**20** [**Chainlink Hybrid Smart Contracts**](https://blog.chain.link/hybrid-smart-contracts-explained/)****\
-**21** [**DON Whitepaper**](https://chain.link/whitepaper)\
-**22** [**Dynamic NFTs (dNFT)**](https://blog.chain.link/what-is-a-dynamic-nft/)****\
-**29** [**Airgap Cold Storage Wallet**](https://github.com/airgap-it/airgap-wallet)\
-**44** [**Cosmo Hub (Port)**](https://blog.cosmos.network/the-cosmos-hub-is-a-port-city-5b7f2d28debf)
+&#x20;**** [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)\
+&#x20;**** [**Ethereum**](https://ethereum.org/en/whitepaper/)\
+&#x20;**** [**Cosmos**](https://v1.cosmos.network/resources/whitepaper)\
+&#x20;**** [**Tendermint**](https://docs.tendermint.com)****\
+&#x20;**** [**Application Blockchain Interface**](https://github.com/tendermint/abci)\
+&#x20;**** [**Inter Blockchain Communication**](https://ibcprotocol.org)****\
+&#x20;**** [**BigChainDB**](https://github.com/bigchaindb/bigchaindb)\
+&#x20;**** [**Chainlink Hybrid Smart Contracts**](https://blog.chain.link/hybrid-smart-contracts-explained/)****\
+&#x20;**** [**DON Whitepaper**](https://chain.link/whitepaper)\
+&#x20;**** [**Dynamic NFTs (dNFT)**](https://blog.chain.link/what-is-a-dynamic-nft/)****\
+****[ **Airgap Cold Storage Wallet**](https://github.com/airgap-it/airgap-wallet)\
+&#x20;**** [**Cosmo Hub (Port)**](https://blog.cosmos.network/the-cosmos-hub-is-a-port-city-5b7f2d28debf)
