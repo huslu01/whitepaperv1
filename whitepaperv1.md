@@ -2,7 +2,6 @@
 
 **Chain2Family**\
 **Branching a New Frontier**\
-**WhitepaperV1**\
 **04 | 15 | 22**
 ----------------
 
@@ -771,7 +770,8 @@
 [**Twitter**](https://twitter.com/chain2family)\
 [**Discord**](https://discord.gg/FEkjBE73PK)****\
 ****[**Website**](https://chain2family.vercel.app)\
-[**Linkedin**](https://www.linkedin.com/company/chain2family)
+[**Linkedin**](https://www.linkedin.com/company/chain2family)****\
+****[**Whitelisting**](https://forms.gle/YP3VQGXXZp1gd6aR7)****
 
 ### **Acknowledgments**
 
