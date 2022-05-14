@@ -23,7 +23,7 @@
 **3 - Inter Blockchain Communication** \
 **Introduction** \
 **IBC- TAO Layer** \
-**BC- APP Layer**&#x20;
+I**BC- APP Layer**&#x20;
 
 **4 - BigchainDB Overview**\
 **Introduction**\
@@ -769,7 +769,7 @@
 
 [**Twitter**](https://twitter.com/chain2family)\
 [**Discord**](https://discord.gg/FEkjBE73PK)****\
-****[**Website**](https://chain2family.vercel.app)\
+****[**Website**](https://chain2family.vercel.app/)\
 [**Linkedin**](https://www.linkedin.com/company/chain2family)****\
 ****[**Whitelisting**](https://forms.gle/YP3VQGXXZp1gd6aR7)****
 
@@ -784,9 +784,9 @@
 &#x20;**** [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)\
 &#x20;**** [**Ethereum**](https://ethereum.org/en/whitepaper/)\
 &#x20;**** [**Cosmos**](https://v1.cosmos.network/resources/whitepaper)\
-&#x20;**** [**Tendermint**](https://docs.tendermint.com)****\
+&#x20;**** [**Tendermint**](https://docs.tendermint.com/)****\
 &#x20;**** [**Application Blockchain Interface**](https://github.com/tendermint/abci)\
-&#x20;**** [**Inter Blockchain Communication**](https://ibcprotocol.org)****\
+&#x20;**** [**Inter Blockchain Communication**](https://ibcprotocol.org/)****\
 &#x20;**** [**BigChainDB**](https://github.com/bigchaindb/bigchaindb)\
 &#x20;**** [**Chainlink Hybrid Smart Contracts**](https://blog.chain.link/hybrid-smart-contracts-explained/)****\
 &#x20;**** [**DON Whitepaper**](https://chain.link/whitepaper)\
