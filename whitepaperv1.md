@@ -414,7 +414,7 @@ I**BC- APP Layer**&#x20;
 
 **This type of model is needed for we have yet to understand how the network will behave in processing both types of transactions while still achieving an overall consensus between multiple C2F HomeTree Networks that will be operating in multiple countries that do support a central bank digital currency.**
 
-![Global Distributed & Interoperated C2F Network](.gitbook/assets/11)
+![Global Distributed & Interoperable C2F Network](.gitbook/assets/Technical\_Flows\_-\_Frame\_21-removebg-preview.png)
 
 ### **HEXTree (Hybrid Exchange)**
 
@@ -514,7 +514,7 @@ I**BC- APP Layer**&#x20;
 
 ### **ChainBranches**
 
-**The first KEY innovation that has been mentioned is being able to have the user or their consortium branch out into their blockchain ledgers called ChainBranches. These blockchains are heterogeneous meaning they’re able to operate both on a public (permissionless) and private (permission-based) layer within the C2F network.**
+**The first KEY innovation that has been mentioned is being able to have the user or their consortium branch out into their blockchain ledgers called ChainBranches. These blockchains are heterogeneous meaning they’re able to operate both on a public (permission less) and private (permission-based) layer within the C2F network.**
 
 ### **Asset Tokenization** **(Blockchain Codes QR** **NFC - Near Field Communication)**
 
@@ -545,11 +545,10 @@ I**BC- APP Layer**&#x20;
 **- Marriage Certificates**\
 **- Medical Records**\
 **- Wills and Trusts**\
-**- Military Records**
+**- Military Records**\
+&#x20;   **etc.. etc … etc**
 
-**- etc.. etc … etc …**
-
-![Tokenization of Assets](.gitbook/assets/15)
+![Asset Tokenization](.gitbook/assets/Technical\_Flows\_-\_Frame\_10-removebg-preview.png)
 
 ### **Blockchain QR Codes**
 
@@ -781,15 +780,25 @@ I**BC- APP Layer**&#x20;
 
 ### **Citations**
 
-&#x20;**** [**Bitcoin**](https://bitcoin.org/bitcoin.pdf)\
-&#x20;**** [**Ethereum**](https://ethereum.org/en/whitepaper/)\
-&#x20;**** [**Cosmos**](https://v1.cosmos.network/resources/whitepaper)\
-&#x20;**** [**Tendermint**](https://docs.tendermint.com/)****\
-&#x20;**** [**Application Blockchain Interface**](https://github.com/tendermint/abci)\
-&#x20;**** [**Inter Blockchain Communication**](https://ibcprotocol.org/)****\
-&#x20;**** [**BigChainDB**](https://github.com/bigchaindb/bigchaindb)\
-&#x20;**** [**Chainlink Hybrid Smart Contracts**](https://blog.chain.link/hybrid-smart-contracts-explained/)****\
-&#x20;**** [**DON Whitepaper**](https://chain.link/whitepaper)\
-&#x20;**** [**Dynamic NFTs (dNFT)**](https://blog.chain.link/what-is-a-dynamic-nft/)****\
-****[ **Airgap Cold Storage Wallet**](https://github.com/airgap-it/airgap-wallet)\
-&#x20;**** [**Cosmo Hub (Port)**](https://blog.cosmos.network/the-cosmos-hub-is-a-port-city-5b7f2d28debf)
+[**Airgap Cold Storage Wallet**\
+](https://github.com/airgap-it/airgap-wallet)[**Application Blockchain Interface**\
+](https://github.com/tendermint/abci)[**Bitcoin**\
+](https://bitcoin.org/bitcoin.pdf)[**BigChainDB**\
+](https://github.com/bigchaindb/bigchaindb)[**Byzantine Fault Tolerance**\
+](https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft/)[**Chainlink Hybrid Smart Contracts**\
+](https://blog.chain.link/hybrid-smart-contracts-explained/)[**Cosmos**\
+](https://v1.cosmos.network/resources/whitepaper)[**Cosmo Hub (Port)**\
+](https://blog.cosmos.network/the-cosmos-hub-is-a-port-city-5b7f2d28debf)[**Cross-chain Interoperability**\
+](https://www.blockchain-council.org/blockchain/blockchain-interoperability/)[**Current State of CBDCs**](https://www.atlanticcouncil.org/cbdctracker/)\
+[**DEX, CEX & HEX**](https://www.soft-fx.com/blog/types-of-cryptocurrency-exchanges/)****\
+****[**DON Whitepaper**\
+](https://chain.link/whitepaper)[**Dynamic NFTs (dNFT)**\
+](https://blog.chain.link/what-is-a-dynamic-nft/)[**Ethereum**\
+](https://ethereum.org/en/whitepaper/)[**Inter Blockchain Communication**\
+](https://ibcprotocol.org/)[**Interchain Security**\
+](https://github.com/cosmos/gaia/blob/main/docs/interchain-security.md)[**Physical NFTs**\
+](https://toddsobrado.com/what-are-the-six-layers-of-blockchain-technology/)[**NFC and Blockchain**](https://files.identiv.com/research-reports/Identiv\_Security\_Benefits\_of\_Unifying\_NFC\_and\_Blockchain\_ResearchReport.pdf?utm\_source=Email\&utm\_medium=collateral\&utm\_term=NFC\&utm\_content=research\_report\&utm\_campaign=NFC\_Blockchain)[\
+](https://toddsobrado.com/what-are-the-six-layers-of-blockchain-technology/)[**QR Codes and Blockchain**\
+](https://proofeasy.io/blockchain-qr-codes-safer-than-normal-qr-codes/)[**Tendermint**\
+](https://docs.tendermint.com/)[**Tendermint and Chainlink**\
+](https://www.coindesk.com/tech/2020/06/23/how-chainlink-and-cosmos-fit-into-chinas-grand-blockchain-initiative/)[**Tokenization**](https://www.leewayhertz.com/what-is-asset-tokenization/)
