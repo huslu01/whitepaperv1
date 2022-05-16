@@ -192,14 +192,11 @@ I**BC- APP Layer**&#x20;
 
 **(Rebranded to Ignite) Tendermint is open-source software for securely and consistently replicating an application on many machines. It works even if up to 1/3 of machines fail in arbitrary ways. Every non-faulty machine sees the same transaction log and computes the same state. Secure and consistent replication is a fundamental problem in distributed systems; it plays a critical role in the fault tolerance of a broad range of applications whether that be on an individual, commercial, organizational or enterprise level.**
 
-![](.gitbook/assets/1)
+![BFT Overview](.gitbook/assets/1)
 
 **The ability to tolerate machines failing in arbitrary ways, including becoming malicious, is known as Byzantine fault tolerance (BFT). The theory of BFT is decades old, but software implementations have only become popular recently, due largely to the success of "blockchain technology" like Bitcoin and Ethereum. Blockchain technology is just a re-formalization of BFT in a more modern setting, with emphasis on peer-to-peer networking and cryptographic authentication. The name derives from the way transactions are batched in blocks, where each block contains a cryptographic hash of the previous one, forming a chain. In practice, the blockchain data structure optimizes BFT design.**
 
-**Blockchain Example**\
-
-
-![](.gitbook/assets/2)
+![Example of Blockchain](.gitbook/assets/2)
 
 ### **ABCI**
 
@@ -341,9 +338,7 @@ I**BC- APP Layer**&#x20;
 
 ![HomeTree + ChainBranch + SDK Application](.gitbook/assets/7)
 
-**5 - Chainlink Overview**\
-
-
+## **5 - Chainlink Overview**
 
 ### **Introduction**
 
