@@ -1,4 +1,4 @@
-# WhitepaperV1
+# 📄 WhitepaperV1
 
 **Chain2Family**\
 **Branching a New Frontier**\
@@ -162,7 +162,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Purpose**
 
-**The 1st version of this whitepaper is to introduce you to Chain2Family (C2F). An all-in-one innovative DeFi blockchain platform aiming to innovate, solve and develop multiple real-world apps through the platform of decentralized applications to branch the financial gaps between Traditional Finance (TradFi), Centralized Finance (CeFi), and Decentralized Finance (DeFi)**
+**The 1st version of this whitepaper is to introduce you to Chain2Family (C2F). An all-in-one innovative DeFi blockchain platform aiming to innovate, solve and develop multiple real-world apps through its decentralized applications to branch the financial gaps between Traditional Finance (TradFi), Centralized Finance (CeFi), and Decentralized Finance (DeFi)**
 
 **The core blockchains (HomeTrees) of C2F is powered by Ignites Tendermint Core which in turn, empowers the people and the user or consortium leveled communities, to further branch off into their own (ChainBranch) blockchain interoperable distributed ledgers.**
 
