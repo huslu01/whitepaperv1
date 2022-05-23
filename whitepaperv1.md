@@ -1,6 +1,6 @@
 # 📄 WhitepaperV1
 
-**Chain2Family**\
+C2F🌐Network\
 **Branching a New Frontier**\
 **04 | 15 | 22**
 ----------------
