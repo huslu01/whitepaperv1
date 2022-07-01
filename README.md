@@ -1,2 +1,6 @@
-# C2F-Network
+---
+description: (formerly Chain2Family)
+---
+
+# LifeDeFied 🕊✨
 

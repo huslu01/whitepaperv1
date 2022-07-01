@@ -1,9 +1,11 @@
 # 📄 WhitepaperV1
 
-C2F🌐Network\
-**Branching a New Frontier**\
+LifeDeFied \
+DeFi Your Future 🕊✨\
 **04 | 15 | 22**
 ----------------
+
+> (Rebranded from Chain2Family - C2F🌐Network)
 
 ## **Table of Contents**
 
