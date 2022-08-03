@@ -1,4 +1,4 @@
 # Table of contents
 
-* [LifeDeFied 🕊✨](README.md)
+* [LifeDeFied (🌱,🌳)](README.md)
 * [📄 WhitepaperV1](whitepaperv1.md)
