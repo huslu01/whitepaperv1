@@ -1,7 +1,7 @@
 # 📄 WhitepaperV1
 
 LifeDeFied \
-DeFi Your Future\
+DeFing the Future\
 **04 | 15 | 22**
 ----------------
 
