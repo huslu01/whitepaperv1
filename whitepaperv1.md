@@ -1,11 +1,9 @@
 # 📄 WhitepaperV1
 
 LifeDeFied \
-DeFing the Future\
+DeFing a New Future\
 **04 | 15 | 22**
 ----------------
-
-> (Rebranded from Chain2Family - C2F🌐Network)
 
 ## **Table of Contents**
 
@@ -198,13 +196,13 @@ I**BC- APP Layer**&#x20;
 
 **The ability to tolerate machines failing in arbitrary ways, including becoming malicious, is known as Byzantine fault tolerance (BFT). The theory of BFT is decades old, but software implementations have only become popular recently, due largely to the success of "blockchain technology" like Bitcoin and Ethereum. Blockchain technology is just a re-formalization of BFT in a more modern setting, with emphasis on peer-to-peer networking and cryptographic authentication. The name derives from the way transactions are batched in blocks, where each block contains a cryptographic hash of the previous one, forming a chain. In practice, the blockchain data structure optimizes BFT design.**
 
-![Example of Blockchain](.gitbook/assets/2)
+![](<.gitbook/assets/Technical Flows - Frame 23.jpg>)
 
 ### **ABCI**
 
 **ABCI stands for Application Blockchain Interface. ABCI is the interface between Tendermint (a state-machine replication engine) and the application (the actual state machine). It consists of a set of **_**methods**_**, each with a corresponding Request and Response Message type. To perform state-machine replication, Tendermint calls the ABCI methods on the ABCI application by sending the Request\* messages and receiving the Response\* messages in return.**
 
-![Tendermint Core + ABCI](.gitbook/assets/3)
+![Tendermint Core + ABCI](<.gitbook/assets/Technical Flows - Tendermint Core (1) (1).jpg>)
 
 \
 **ABCI is unique in the sense that it allows our development team to develop and test multiple decentralized BranchApplications in different forms of programming languages that can further run in parallel with the HomeTree Blockchains and their corresponding ChainBranch Blockchains.** \
@@ -217,14 +215,14 @@ I**BC- APP Layer**&#x20;
 **Participants in the protocol are called validators; they take turns proposing blocks of transactions and voting on them. Blocks are committed in a chain, with one block at each height. A block may fail to be committed, in which case the protocol moves to the next round, and a new validator gets to propose a block for that height. Two stages of voting are required to successfully commit a block; call them pre-vote and pre-commit. A block is committed when more than 2/3 of validators pre-commit for the same block in the same round.**\
 **Tendermint refers to this as a Polka (hence the dancers)**
 
-![Example of Tendermints Consensus (Polka)](.gitbook/assets/4)
-
 **Validators may fail to commit a block for a couple of reasons. The proposer may be offline, or the network may be slow. Tendermint however allows the faulty validator to be skipped. Validators wait a small amount of time to receive a complete proposal block from the proposer before voting to move to the next round. This reliance on a timeout is what makes Tendermint a weakly synchronous protocol, rather than an asynchronous one. However, the rest of the protocol is asynchronous, and validators only make progress after hearing from more than two-thirds of the validator set. A simplifying element of Tendermint is that it uses the same mechanism to commit a block as it does to skip to the next round.**
 
 **Assuming less than one-third of the validators are Byzantine, Tendermint guarantees that safety will never be violated - that is, validators will never commit conflicting blocks at the same height. To do this it introduces a few locking rules which modulate which paths can be followed in the flow diagram. Once a validator pre-commits a block, it is locked on that block. Then,**
 
 1. **It must prevote for the block it is locked on**
 2. **It can only unlock, and pre-commit for a new block, if there is a polka for that block in a later round**
+
+![](<.gitbook/assets/Technical Flows - Frame 19.jpg>)
 
 ### **Light Clients**
 
@@ -302,7 +300,7 @@ I**BC- APP Layer**&#x20;
 **The APP layer is integrated on top of the IBC/TAO layer which enables arbitrary crosschain protocols which can be their applications.**\
 **These protocols can include a variety of services and features that can be grouped on the TAO module and plugged into the application layer of Tendermint.**
 
-![IBC + TAO + APP LAYER](.gitbook/assets/6)
+![IBC STACK](<.gitbook/assets/Technical Flows - IBC (INNER BLOCKCHAIN COMMUNICATION) .jpg>)
 
 ## **4 - BigchainDB Overview**
 
@@ -373,7 +371,7 @@ I**BC- APP Layer**&#x20;
 **From there the user or the consortium ChainBranches can further communicate with the HomeTree to update the current state of their tokenized smart contracts establishing real-time transparency between the physical and digital world (off-chain to on-chain)**\
 
 
-![DON Smart Contract Overview](.gitbook/assets/8)
+![](<.gitbook/assets/Technical Flows - Frame 6.jpg>)
 
 ### **dNFT (Dynamic Non-Fungible Token)**
 
@@ -395,11 +393,11 @@ I**BC- APP Layer**&#x20;
 
 **Each country revolving around a CBDC can have its own dedicated HomeTree that provides balanced distributional network support with its corresponding HEXTrees, LiquidityTrees, validators, delegators, and liquidity providers (LP).**
 
-![Tendermint Core Side by Side Comparison](.gitbook/assets/10)
-
 **With the IBC protocol (inter-blockchain communication) we’re able to have the core of each HomeTree, HEXTree, and LiquidityTree interoperate securely on the public layer of the network to ensure the tokenized information can be transferred easily with little to no transaction fees.**
 
 **This public layer allows the ease of interoperability between multiple blockchain ecosystems and supports the additional capability of being able to scale alongside a Government Central Bank Digital Currency.**
+
+![](<.gitbook/assets/Technical Flows (1).jpg>)
 
 ### **Global Network**
 
@@ -411,7 +409,7 @@ I**BC- APP Layer**&#x20;
 
 **This type of model is needed for we have yet to understand how the network will behave in processing both types of transactions while still achieving an overall consensus between multiple C2F HomeTree Networks that will be operating in multiple countries that do support a central bank digital currency.**
 
-![Global Distributed & Interoperable C2F Network](.gitbook/assets/Technical\_Flows\_-\_Frame\_21-removebg-preview.png)
+![](<.gitbook/assets/Technical Flows - Frame 21 (2).jpg>)
 
 ### **HEXTree (Hybrid Exchange)**
 
@@ -447,7 +445,7 @@ I**BC- APP Layer**&#x20;
 
 **Through the IBC protocol, Chainbranches can communicate and interoperate with each other including their corresponding HomeTree or even with other blockchain networks that extend outside of the C2F network through what C2F refers to as a dedicated Brancher.**
 
-![ChainBranch Layers + IBC Protocol + Tendermint Core](.gitbook/assets/12)
+![](<.gitbook/assets/Technical Flows (2).jpg>)
 
 \
 **With Ignites Tendermint ABCI, we’re able to configure a specific ChainBranch and BranchApplication to become that dedicated “Brancher” which is a (bridge) interconnecting to other blockchain networks such as Ethereum, Cosmos, Bitcoin, Avalanche, Polkadot (etc)**
@@ -498,7 +496,7 @@ I**BC- APP Layer**&#x20;
 
 **Those who are whitelisted as validators or delegators of the native C2FCoin will be able to test these DeFi BranchApps out further and earn passive rewards by discovering bugs or vulnerabilities in the early beta and alpha stages of testing.**
 
-![BranchApplication + Tendermint Core](.gitbook/assets/14)
+![BranchApp Intergrations + Tendermint Core](<.gitbook/assets/Technical Flows - Frame 5 (1).jpg>)
 
 ### **BranchApplications (BranchApps)**
 
