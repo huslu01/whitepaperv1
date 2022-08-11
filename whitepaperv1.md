@@ -484,7 +484,7 @@ I**BC- APP Layer**&#x20;
 
 **The image below reflects a flow process of a Wallet Management System with a Cold Wallet, Hot Wallet, AirGap software, and the public / private layers of ChainBranch blockchain ledger.**
 
-![Cold Wallet (Checking) + Hot Wallet (Savings) ](.gitbook/assets/13)
+![LifeDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1).jpg>)
 
 ## **8 - BranchApps Overview**
 
@@ -608,11 +608,11 @@ I**BC- APP Layer**&#x20;
 
 **This DeFi marketplace operates on a public layer with no boundaries, meaning that others outside of the network can use its DeFi BranchApps and services but will experience an out-of-network transaction fee to access the marketplace.**
 
-## **9 - Native C2FCoin (C2FC)**
+## **9 - Native Stable Decentralized Coin (LDUC)**
 
 ### **Introduction**
 
-**The Native C2FCoin is used to stake and secure the overall economic structure of the HomeTree networks, its HEXTrees, LiquidityTrees, and its corresponding ChainBranches that operate within each given country**
+**The Native LDUC is used to stake and secure the overall economic structure of the HomeTree networks, its HEXTrees, LiquidityTrees, and its corresponding ChainBranches that operate within each given country**
 
 **This in turn provides aid in having the capability to interoperate within a world government revolving around a CBDC.**\
 **It also allows the user or the consortium ChainBranches to initially branch off into their blockchain ledgers which happens when they stake their first C2FCoins back into the C2F Network.**
@@ -656,7 +656,7 @@ I**BC- APP Layer**&#x20;
 **- 10% Investors, contributors, and strategic partners**\
 **- 5% Towards bounty programs, sponsors, activities, and events**
 
-## **10 - Native C2FToken (C2FT)**
+## **10 - Native Stable NFT Utility Token (LDUT)**
 
 ### **Introduction**
 
@@ -761,17 +761,16 @@ I**BC- APP Layer**&#x20;
 
 ### **Company Socials**
 
-[**Twitter**](https://twitter.com/chain2family)\
+[**Twitter**](https://twitter.com/lifedefied)\
 [**Discord**](https://discord.gg/FEkjBE73PK)****\
-****[**Website**](https://chain2family.vercel.app/)\
+****[**Website**](https://lifedefied.com/)\
 [**Linkedin**](https://www.linkedin.com/company/chain2family)****\
-****[**Whitelisting**](https://forms.gle/YP3VQGXXZp1gd6aR7)****
+****[**Whitelisting**](https://forms.gle/7RR56yWqxsjdgZkn8)****
 
 ### **Acknowledgments**
 
 [**Keaton McCune**](https://www.linkedin.com/in/k3ytoshi/)\
-[**Arnab Bhattacharya**](https://www.linkedin.com/in/arnab-bhattacharya-ab7055189/)****\
-****[**Dr. Amit Vishwakarma**](https://www.linkedin.com/in/dr-amit-vishwakarma-0a4b79bb/)
+[**Arnab Bhattacharya**](https://www.linkedin.com/in/arnab-bhattacharya-ab7055189/)
 
 ### **Citations**
 

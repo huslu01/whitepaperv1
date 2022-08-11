@@ -1,6 +1,6 @@
 ---
-description: (formerly Chain2Family)
+description: DeFi a New Future
 ---
 
-# LifeDeFied 🕊✨
+# LifeDeFied (🌱,🌿,🌳)
 
