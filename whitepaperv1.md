@@ -2,7 +2,7 @@
 description: Updated to LifeDeFied Terminology
 ---
 
-# 📄 Whitepaper.V1
+# 📃 Whitepaper.V1
 
 LifeDeFied \
 DeFing a New Future\
