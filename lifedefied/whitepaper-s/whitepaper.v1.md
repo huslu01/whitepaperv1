@@ -1,4 +1,4 @@
-# 📄 WhitepaperV1️⃣
+# 📄 Whitepaper.V1️⃣
 
 LifeDeFied \
 DeFing a New Future\
@@ -192,17 +192,17 @@ I**BC- APP Layer**&#x20;
 
 **(Rebranded to Ignite) Tendermint is open-source software for securely and consistently replicating an application on many machines. It works even if up to 1/3 of machines fail in arbitrary ways. Every non-faulty machine sees the same transaction log and computes the same state. Secure and consistent replication is a fundamental problem in distributed systems; it plays a critical role in the fault tolerance of a broad range of applications whether that be on an individual, commercial, organizational or enterprise level.**
 
-![BFT Overview](../../../.gitbook/assets/1)
+![BFT Overview](../../.gitbook/assets/1)
 
 **The ability to tolerate machines failing in arbitrary ways, including becoming malicious, is known as Byzantine fault tolerance (BFT). The theory of BFT is decades old, but software implementations have only become popular recently, due largely to the success of "blockchain technology" like Bitcoin and Ethereum. Blockchain technology is just a re-formalization of BFT in a more modern setting, with emphasis on peer-to-peer networking and cryptographic authentication. The name derives from the way transactions are batched in blocks, where each block contains a cryptographic hash of the previous one, forming a chain. In practice, the blockchain data structure optimizes BFT design.**
 
-![](<../../../.gitbook/assets/Technical Flows - Frame 23.jpg>)
+![](<../../.gitbook/assets/Technical Flows - Frame 23.jpg>)
 
 ### **ABCI**
 
 **ABCI stands for Application Blockchain Interface. ABCI is the interface between Tendermint (a state-machine replication engine) and the application (the actual state machine). It consists of a set of **_**methods**_**, each with a corresponding Request and Response Message type. To perform state-machine replication, Tendermint calls the ABCI methods on the ABCI application by sending the Request\* messages and receiving the Response\* messages in return.**
 
-![Tendermint Core + ABCI](<../../../.gitbook/assets/Technical Flows - Tendermint Core (1) (1).jpg>)
+![Tendermint Core + ABCI](<../../.gitbook/assets/Technical Flows - Tendermint Core (1) (1).jpg>)
 
 \
 **ABCI is unique in the sense that it allows our development team to develop and test multiple decentralized BranchApplications in different forms of programming languages that can further run in parallel with the HomeTree Blockchains and their corresponding ChainBranch Blockchains.** \
@@ -222,7 +222,7 @@ I**BC- APP Layer**&#x20;
 1. **It must prevote for the block it is locked on**
 2. **It can only unlock, and pre-commit for a new block, if there is a polka for that block in a later round**
 
-![](<../../../.gitbook/assets/Technical Flows - Frame 19.jpg>)
+![](<../../.gitbook/assets/Technical Flows - Frame 19.jpg>)
 
 ### **Light Clients**
 
@@ -249,7 +249,7 @@ I**BC- APP Layer**&#x20;
 
 **The 5th node is known as a (Sentry Node) and is considered to be the guardian of the validator node in providing access to the rest of the network. Every sentry node should be well connected to the full nodes and may remain dynamic but should maintain a random connection with other Sentry Nodes. It should always be anticipating incoming connections from the validator node and its corresponding backup(s). They never gather or log the validators node address and limit the quality of connected peers.**
 
-![Sentry Node (Guardians) + Lead Validator](../../../.gitbook/assets/5)
+![Sentry Node (Guardians) + Lead Validator](../../.gitbook/assets/5)
 
 ## **3 - Inter Blockchain Communication**
 
@@ -300,7 +300,7 @@ I**BC- APP Layer**&#x20;
 **The APP layer is integrated on top of the IBC/TAO layer which enables arbitrary crosschain protocols which can be their applications.**\
 **These protocols can include a variety of services and features that can be grouped on the TAO module and plugged into the application layer of Tendermint.**
 
-![IBC STACK](<../../../.gitbook/assets/Technical Flows - IBC (INNER BLOCKCHAIN COMMUNICATION) .jpg>)
+![IBC STACK](<../../.gitbook/assets/Technical Flows - IBC (INNER BLOCKCHAIN COMMUNICATION) .jpg>)
 
 ## **4 - BigchainDB Overview**
 
@@ -336,7 +336,7 @@ I**BC- APP Layer**&#x20;
 **- Public Schools & Universities**\
 **-web2 or web3**
 
-![HomeTree + ChainBranch + SDK Application](../../../.gitbook/assets/7)
+![HomeTree + ChainBranch + SDK Application](../../.gitbook/assets/7)
 
 ## **5 - Chainlink Overview**
 
@@ -371,7 +371,7 @@ I**BC- APP Layer**&#x20;
 **From there the user or the consortium ChainBranches can further communicate with the HomeTree to update the current state of their tokenized smart contracts establishing real-time transparency between the physical and digital world (off-chain to on-chain)**\
 
 
-![](<../../../.gitbook/assets/Technical Flows - Frame 6.jpg>)
+![](<../../.gitbook/assets/Technical Flows - Frame 6.jpg>)
 
 ### **dNFT (Dynamic Non-Fungible Token)**
 
@@ -383,7 +383,7 @@ I**BC- APP Layer**&#x20;
 
 **This Dynamic Non-Fungible Token model doesn’t have to operate on the public layer of the BranchMarket. One could also for example have it be used in the private layer of the ChainBranch where the user or the consortium can be exchanging wills and trusts tied to family or certain transfers of property ownership that you want to remain within the private layer.**
 
-![Example of a dNFT  (can be for any type of tokenized asset)](../../../.gitbook/assets/9)
+![Example of a dNFT  (can be for any type of tokenized asset)](../../.gitbook/assets/9)
 
 ## **6 - HomeTree Overview**
 
@@ -397,7 +397,7 @@ I**BC- APP Layer**&#x20;
 
 **This public layer allows the ease of interoperability between multiple blockchain ecosystems and supports the additional capability of being able to scale alongside a Government Central Bank Digital Currency.**
 
-![](<../../../.gitbook/assets/Technical Flows (1).jpg>)
+![](<../../.gitbook/assets/Technical Flows (1).jpg>)
 
 ### **Global Network**
 
@@ -409,7 +409,7 @@ I**BC- APP Layer**&#x20;
 
 **This type of model is needed for we have yet to understand how the network will behave in processing both types of transactions while still achieving an overall consensus between multiple C2F HomeTree Networks that will be operating in multiple countries that do support a central bank digital currency.**
 
-![](<../../../.gitbook/assets/Technical Flows - Frame 21 (2).jpg>)
+![](<../../.gitbook/assets/Technical Flows - Frame 21 (2).jpg>)
 
 ### **HEXTree (Hybrid Exchange)**
 
@@ -445,7 +445,7 @@ I**BC- APP Layer**&#x20;
 
 **Through the IBC protocol, Chainbranches can communicate and interoperate with each other including their corresponding HomeTree or even with other blockchain networks that extend outside of the C2F network through what C2F refers to as a dedicated Brancher.**
 
-![](<../../../.gitbook/assets/Technical Flows (2).jpg>)
+![](<../../.gitbook/assets/Technical Flows (2).jpg>)
 
 \
 **With Ignites Tendermint ABCI, we’re able to configure a specific ChainBranch and BranchApplication to become that dedicated “Brancher” which is a (bridge) interconnecting to other blockchain networks such as Ethereum, Cosmos, Bitcoin, Avalanche, Polkadot (etc)**
@@ -484,7 +484,7 @@ I**BC- APP Layer**&#x20;
 
 **The image below reflects a flow process of a Wallet Management System with a Cold Wallet, Hot Wallet, AirGap software, and the public / private layers of ChainBranch blockchain ledger.**
 
-![LifeDeFied Bank Account Wallet Backend](<../../../.gitbook/assets/Technical Flows - Frame 16 (1) (1).jpg>)
+![LifeDeFied Bank Account Wallet Backend](<../../.gitbook/assets/Technical Flows - Frame 16 (1) (1).jpg>)
 
 ## **8 - BranchApps Overview**
 
@@ -496,7 +496,7 @@ I**BC- APP Layer**&#x20;
 
 **Those who are whitelisted as validators or delegators of the native C2FCoin will be able to test these DeFi BranchApps out further and earn passive rewards by discovering bugs or vulnerabilities in the early beta and alpha stages of testing.**
 
-![BranchApp Intergrations + Tendermint Core](<../../../.gitbook/assets/Technical Flows - Frame 5 (1).jpg>)
+![BranchApp Intergrations + Tendermint Core](<../../.gitbook/assets/Technical Flows - Frame 5 (1).jpg>)
 
 ### **BranchApplications (BranchApps)**
 
@@ -543,7 +543,7 @@ I**BC- APP Layer**&#x20;
 **- Military Records**\
 &#x20;   **etc.. etc … etc**
 
-![Asset Tokenization](../../../.gitbook/assets/Technical\_Flows\_-\_Frame\_10-removebg-preview.png)
+![Asset Tokenization](../../.gitbook/assets/Technical\_Flows\_-\_Frame\_10-removebg-preview.png)
 
 ### **Blockchain QR Codes**
 
@@ -556,7 +556,7 @@ I**BC- APP Layer**&#x20;
 **Some might say “well if I can just print it out then I own it” but this is a false statement for they’re not the original owner of the tokenized dNFT address**\
 **A comparison to this is saying “well if I screenshot it, then I own it '' which has been a popular meme amongst digital NFTs but again this statement is false for they’re not the original owner of the tokenized dNFT address**
 
-![QR Code Blockchain Generation](../../../.gitbook/assets/16)
+![QR Code Blockchain Generation](../../.gitbook/assets/16)
 
 **Additionally through Chainlinks DON and dNFTs we’re able to update the state of the QR-Codes dynamically whenever it undergoes a change off-chain or on-chain.**
 
