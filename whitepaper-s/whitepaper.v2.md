@@ -1,2 +1,6 @@
-# 📃 Whitepaper.V2️⃣
+---
+description: Undergoing
+---
+
+# 📃 Whitepaper.V2
 

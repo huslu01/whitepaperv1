@@ -1,4 +1,8 @@
-# 📄 Whitepaper.V1️⃣
+---
+description: Updated to LifeDeFied Terminology
+---
+
+# 📄 Whitepaper.V1
 
 LifeDeFied \
 DeFing a New Future\
@@ -484,7 +488,7 @@ I**BC- APP Layer**&#x20;
 
 **The image below reflects a flow process of a Wallet Management System with a Cold Wallet, Hot Wallet, AirGap software, and the public / private layers of ChainBranch blockchain ledger.**
 
-![LifeDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1) (2).jpg>)
+![LifeDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1).jpg>)
 
 ## **8 - BranchApps Overview**
 
