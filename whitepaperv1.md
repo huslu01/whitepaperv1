@@ -64,16 +64,16 @@ I**BC- APP Layer**&#x20;
 **Insurance Staking Pool** \
 **Cold Storage Staking** \
 **Decentralized Identities** \
-**DeFi Branch Market**&#x20;
+**BranchMarket**&#x20;
 
-**9 - Native C2FCoin Overview**\
+**9 - LifeDeFied Utility Coin Overview**\
 **Introduction** \
 **Staking Model** \
 **Private ICO** \
 **Private ICO Info** \
 **Public Fundraiser ICO**&#x20;
 
-**10 - Native C2FToken Overview** \
+**10 - LifeDeFied Utility Token Overview** \
 **Introduction** \
 **Staking Model** \
 **Public to Private Staking**&#x20;
@@ -94,14 +94,14 @@ I**BC- APP Layer**&#x20;
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>ABCI</strong><br><strong>(Application Blockchain Interface)</strong></p> | **ABCI stands for "Application Blockchain Interface". ABCI is the interface between Tendermint (a state-machine replication engine) and your application (the actual state machine)**                                                                                                                                                                                                                                  |
 | **BFT (Byzantine Fault Tolerance)**                                                 | **The property of a system that can resist the class of failures derived from the Byzantine Generals' Problem. This means that a BFT system can continue operating even if some of the nodes fail or act maliciously**                                                                                                                                                                                                 |
-| **Brancher**                                                                        | **A dedicated HomeTree Application for connecting to other blockchain networks that reside outside of the C2F network (Ethereum, cosmos, Polkadot, avalanche (etc))**                                                                                                                                                                                                                                                  |
-| **BranchApps**                                                                      | **Chain2Familys terminology for a decentralized application (dApp) that runs in parallel with the core HomeTree blockchains and ChainBranches**                                                                                                                                                                                                                                                                        |
-| **BranchMarket**                                                                    | **The BranchMarket is a DeFi marketplace for listing, exchanging, selling, buying or advertising tokenized C2FT assets. It also contains all the BranchApplications that can be accessed by the user or their consortium as well as 3rd parties that extend outside of the C2F network.**                                                                                                                              |
+| **Brancher**                                                                        | **A dedicated HomeTree Application for connecting to other blockchain networks that reside outside of the LifeDeFied platfor m (Ethereum, cosmos, Polkadot, avalanche (etc))**                                                                                                                                                                                                                                         |
+| **BranchApps**                                                                      | **LifeDeFied terminology for a decentralized application (dApp) that runs in parallel with the core HomeTree blockchains and ChainBranches**                                                                                                                                                                                                                                                                           |
+| **BranchMarket**                                                                    | **The BranchMarket is a DeFi marketplace for listing, exchanging, selling, buying or advertising tokenized LDUT assets. It also contains all the BranchApplications that can be accessed by the user or their consortium as well as 3rd parties that extend outside of the public network.**                                                                                                                           |
 | **Bonding**                                                                         | **The process of staking assets together**                                                                                                                                                                                                                                                                                                                                                                             |
-| <p><strong>C2F</strong><br><strong>(Chain2Family)</strong></p>                      | **The acronym used to represent Chain2Family (C2F)**                                                                                                                                                                                                                                                                                                                                                                   |
-| <p><strong>C2FC</strong></p><p><strong>(Chain2FamilyCoin)</strong></p>              | **Chain2Family’s Native Cryptocurrency that powers the interoperability between networks of HomeTrees, Chainbranches, BranchApplications and other Blockchains**                                                                                                                                                                                                                                                       |
-| <p><strong>C2FT</strong><br><strong>(Chain2FamilyToken)</strong></p>                | **Chain2Family’s Native Crypto token that powers asset tokenization and the user or consortium ChainBranch ledgers.**                                                                                                                                                                                                                                                                                                  |
-| <p><strong>C2BP</strong><br><strong>(Chain2BranchPool)</strong></p>                 | **Chain2Family’s Native Token Reward for Liquidity Providers (LP) pooling their assets together to aid in the exchange process of the HEXTree.**                                                                                                                                                                                                                                                                       |
+| **LW3S**                                                                            | <p><strong>Sub name and The acronym used to represent</strong> <br><strong>LifeDeFied Web3 Services</strong></p>                                                                                                                                                                                                                                                                                                       |
+| **LDUC**                                                                            | **LifeDeFied Utility Coin that powers the interoperability between networks of HomeTrees, Chainbranches, BranchApplications and other Blockchains**                                                                                                                                                                                                                                                                    |
+| **LDUT**                                                                            | **LifeDeFied Utility Token that powers the stable dynamic NFT asset tokenization and decentralized applications (dApps) on the public layer of the BranchMarket**                                                                                                                                                                                                                                                      |
+| **LDLT**                                                                            | **LifeDeFied Liquidity Token Reward for Liquidity Providers (LP) pooling their assets together to aid in the exchange process of the HEXTree.**                                                                                                                                                                                                                                                                        |
 | **CBDC (Central Bank Digital Currency)**                                            | **A central bank's digital currency is the digital form of a country's fiat currency. A CBDC is issued and regulated by a nation's monetary authority or central bank**                                                                                                                                                                                                                                                |
 | <p><strong>CeFi</strong><br><strong>(Centralized Finance)</strong></p>              | **CeFi, short for centralized finance, offers some of the yield benefits of DeFi with some of the ease of use and security of traditional financial-services products**                                                                                                                                                                                                                                                |
 | <p><strong>CEX</strong><br><strong>(Centralized Exchange)</strong></p>              | **Centralized Exchanges (CEX) are a type of cryptocurrency exchange which requires the need of an intermediary third party for transactions to take place. Usually in the case of FIAT.**                                                                                                                                                                                                                              |
@@ -109,8 +109,8 @@ I**BC- APP Layer**&#x20;
 | **Cold Storage Wallet**                                                             | **A cold wallet, otherwise known as a hardware wallet or cold storage, is a physical device that keeps your cryptocurrency completely offline. Many look like USB drives. Taking your holdings offline helps protect you from hacking and online attacks**                                                                                                                                                             |
 | **Cold Storage Staking**                                                            | **Cold staking involves the freezing of crypto funds in offline wallets. This makes it far more secure, as your funds will be entirely protected from cybercriminals. Additionally, cold staking is more environmentally friendly than online staking. This is, again, because of the storage methods used**                                                                                                           |
 | **Consortium**                                                                      | **A consortium is a group of user ChainBranches that can operate both on a public or private layer based on the governance model**                                                                                                                                                                                                                                                                                     |
-| **Delegator**                                                                       | **A delegator is someone who wishes to not become a full validator and instead delegates their coins/tokens to a full validator or staking pool to partake in the overall consensus and receive additional C2FC**                                                                                                                                                                                                      |
-| <p><strong>dApp</strong><br><strong>(Decentralized Application)</strong></p>        | **A decentralized application is an application that can operate autonomously, typically through the use of smart contracts, that runs on a decentralized computing blockchain system. Like traditional applications, DApps provide some function or utility to their users**                                                                                                                                          |
+| **Delegator**                                                                       | **A delegator is someone who wishes to not become a full validator and instead delegates their coins/tokens to a full validator or staking pool to partake in the overall consensus and receive additional LDUC**                                                                                                                                                                                                      |
+| <p><strong>dApp</strong><br><strong>(Decentralized Application)</strong></p>        | **A decentralized application is an application that can operate autonomously, typically through the use of smart contracts, that runs on a decentralized computing blockchain system. Like traditional applications, dApps provide some function or utility to their users**                                                                                                                                          |
 | <p><strong>DeFi</strong><br><strong>(Decentralized Finance)</strong></p>            | **Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies**                                                                                                                                                                                                                                                                     |
 | <p><strong>DEX</strong><br><strong>(Decentralized Exchange)</strong></p>            | **Decentralized exchanges (DEX) are a type of cryptocurrency exchange which allows for direct peer-to-peer cryptocurrency transactions to take place online securely and without the need for an intermediary**                                                                                                                                                                                                        |
 | <p><strong>dNFT</strong><br><strong>(Dynamic Non-Fungible Token)</strong></p>       | **A dynamic NFT is an NFT that can change based on external conditions. Change in a dynamic NFT often refers to changes in the NFT's metadata triggered by a smart contract**                                                                                                                                                                                                                                          |
@@ -119,7 +119,7 @@ I**BC- APP Layer**&#x20;
 | **Hardware Wallet**                                                                 | **Hardware wallets are a form of offline storage. A hardware wallet is a cryptocurrency wallet that stores the user's private keys (a critical piece of information used to authorize outgoing transactions on the blockchain network) in a secure hardware device**                                                                                                                                                   |
 | <p><strong>HEX</strong><br><strong>(Hybrid Exchange)</strong></p>                   | **A hybrid crypto exchange (HEX) provides users with access to their private keys and aims to solve the scalability issues of decentralized exchanges**                                                                                                                                                                                                                                                                |
 | **HEXTree**                                                                         | **A Hybrid Distributed exchange that's interconnected to the HomeTree. The HEXTree provides fast distribution custody of funds for both fiat and crypto users**                                                                                                                                                                                                                                                        |
-| **HomeTree**                                                                        | **HomeTrees are the core blockchains of the Chain2Family Network. Each HomeTree acts as a “root” custodian facilitating the movement of coins/tokens within the network of other HomeTrees.**                                                                                                                                                                                                                          |
+| **HomeTree**                                                                        | **The HomeTree is the public layer of the LifeDeFid blockchain network. Each HomeTree acts as a “root” custodian facilitating the movement of coins/tokens within the network of other HomeTrees.**                                                                                                                                                                                                                    |
 | **Hot Wallet**                                                                      | **A hot wallet can also be called a software wallet. It's a form of digital storage that you can access on your computer or phone and is connected to the internet. Because of the internet connection, hot wallets are not as secure as a cold wallets**                                                                                                                                                              |
 | <p><strong>ICO</strong><br><strong>(Initial Coin Offering)</strong></p>             | **An initial coin offering (ICO) is the cryptocurrency industry's equivalent to an initial public offering (IPO)**                                                                                                                                                                                                                                                                                                     |
 | <p><strong>IBC</strong><br><strong>(Inter Blockchain Communication)</strong></p>    | **The Inter‐Blockchain Communication Protocol (IBC), an open‐source protocol for relaying messages between independently distributed ledgers**                                                                                                                                                                                                                                                                         |
@@ -131,15 +131,15 @@ I**BC- APP Layer**&#x20;
 | **Tokenization**                                                                    | **Tokenization is the process where assets are converted into a token that can then be moved, stored, and recorded on the blockchain**                                                                                                                                                                                                                                                                                 |
 | <p><strong>LP</strong><br><strong>(Liquidity Provider)</strong></p>                 | **A liquidity provider is a user who funds a liquidity pool with crypto assets they own to facilitate trading on the platform's exchange and earn a passive yield for helping to facilitate that process**                                                                                                                                                                                                             |
 | **Liquidity Pool**                                                                  | **A liquidity pool is a vault into which participants deposit their assets in order to form a market (trading pair) and make it liquid for those wishing to trade in that pair. Technically speaking, the vault is a smart contract that enables users to securely store their tokens.**                                                                                                                               |
-| **LiquidityTree**                                                                   | **A LiquidityTree is a C2F term that refers to a “hybrid” liquidity pool model that helps HEXTree facilitate its buyers and sellers (traders) between CBDCs and other cryptocurrencies**                                                                                                                                                                                                                               |
+| **LiquidityTree**                                                                   | **A LiquidityTree is a term that refers to a “hybrid” liquidity pool model that helps HEXTree facilitate its buyers and sellers (traders) between CBDCs and other cryptocurrencies**                                                                                                                                                                                                                                   |
 | <p><strong>NFC</strong><br><strong>(Near Field Communication)</strong></p>          | **Near Field Communication allows for contactless payment between devices. Most commonly found in today's smartphones/devices which can now support crypto-based payments**                                                                                                                                                                                                                                            |
 | <p><strong>NFT</strong><br><strong>(Non-Fungible Token)</strong></p>                | **A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of a distributed ledger. The ownership of an NFT is recorded in the blockchain and can be transferred by the owner, allowing NFTs to be sold and traded**                                                                                                                                                     |
 | **Node**                                                                            | **Nodes form the infrastructure of a blockchain. All nodes on a blockchain are connected and they constantly exchange the latest blockchain data with each other so all nodes stay up to date. They store, spread, and preserve the blockchain data, so theoretically a blockchain exists on nodes. A full node is a device (like a computer) that contains a full copy of the transaction history of the blockchain** |
-| **OracleTree**                                                                      | **The OracleTree is a C2F term for a dedicated Chainlink DON integration that's connected to the HomeTree to update off-chain events on-chain to its corresponding ChainBranches and their dynamic tokenized smart contracts**                                                                                                                                                                                         |
-| <p><strong>Private ICO</strong><br><strong>(Initial Coin Offering)</strong></p>     | **A private ICO is for a pre-selected group of investors, partners, contributors and advisors to acquire the C2FCoin at a discounted rate to test certain functionality of the C2F networks platform before its initial public ICO.**                                                                                                                                                                                  |
+| **OracleTree**                                                                      | **The OracleTree is a term for a dedicated Chainlink DON integration that's connected to the HomeTree to update off-chain events on-chain to its corresponding ChainBranches and their dynamic tokenized smart contracts**                                                                                                                                                                                             |
+| <p><strong>Private ICO</strong><br><strong>(Initial Coin Offering)</strong></p>     | **A private ICO is for a pre-selected group of investors, partners, contributors and advisors to acquire LDUC at a discounted rate to test certain functionality of the LifeDeFied platform before its ICO**                                                                                                                                                                                                           |
 | **Smart Contract**                                                                  | **A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control, or document legally relevant events and actions according to its terms.**                                                                                                                                                                                                                       |
 | **Staking**                                                                         | **offers crypto holders a way of putting their digital assets to work and earning passive income without needing to sell them. You can think of staking as the crypto equivalent of putting money in a high-yield savings account**                                                                                                                                                                                    |
-| **Validator**                                                                       | **A validator runs a full node and is selected based on the overall amount of staked C2FC. Each validator is responsible for participating and securing the overall consensus of the C2F network, its HomeTrees, and ChainBranches which include the user or their consortium**                                                                                                                                        |
+| **Validator**                                                                       | **A validator runs a full node and is selected based on the overall amount of staked LDUC. Each validator is responsible for participating and securing the overall consensus of the LifeDeFied Platform , its HomeTrees, and ChainBranches which include the user or their consortium**                                                                                                                               |
 | **Web2**                                                                            | **Web2 refers to websites that emphasize user-generated content, ease of use, participatory culture, and interoperability for end users**                                                                                                                                                                                                                                                                              |
 | **Web3**                                                                            | **Web3 is an idea for a new iteration of the World Wide Web-based on blockchain technology, which incorporates concepts such as decentralization and token-based economics**                                                                                                                                                                                                                                           |
 | **WMS**                                                                             | **Wallet management system is a program designed to facilitate the management of multiple virtual currency wallets from a single interface. Institutional or retail crypto investors can use it.**                                                                                                                                                                                                                     |
@@ -166,29 +166,30 @@ I**BC- APP Layer**&#x20;
 
 ### **Purpose**
 
-**The 1st version of this whitepaper is to introduce you to Chain2Family (C2F). An all-in-one innovative DeFi blockchain platform aiming to innovate, solve and develop multiple real-world apps through its decentralized applications to branch the financial gaps between Traditional Finance (TradFi), Centralized Finance (CeFi), and Decentralized Finance (DeFi)**
+**The 1st version of this whitepaper is to introduce you to LifeDeFied. An all-in-one innovative DeFi blockchain platform aiming to innovate, solve and develop multiple real-world apps through its decentralized applications to branch the financial gaps between Traditional Finance (TradFi), Centralized Finance (CeFi), and Decentralized Finance (DeFi)**
 
-**The core blockchains (HomeTrees) of C2F is powered by Ignites Tendermint Core which in turn, empowers the people and the user or consortium leveled communities, to further branch off into their own (ChainBranch) blockchain interoperable distributed ledgers.**
+**The public blockchain network (HomeTree) is powered by Ignites Tendermint Core which in turn, empowers the user or consortium leveled communities, to further branch off into their own private blockchain networks (ChainBranch) that act as distributed ledgers.**
 
-**These ChainBranch ledgers can operate both on a public and private layer (permissionless to permission-based) and can be further integrated with multiple decentralized solutions (BranchApps), which are in the form of a sidechain (crosschain) interoperable decentralized application.**
+**These ChainBranch ledgers can operate both on a public and private layer (permissionless to permission-based) and can be further integrated with multiple decentralized solutions (BranchApps), which are in the form of a sidechain (crosschain) interoperable decentralized application.**&#x20;
 
-**Using cross-chain technology and the interoperability between distributed ledgers, we’re able to provide the user or the consortium ChainBranches access to a global DeFi BranchMarket.**
+**Using cross-chain technology and the interoperability between distributed ledgers, we’re able to provide the user or the consortium ChainBranches access to a global DeFi BranchMarket where they sync (sign) to create or connect to a new desktop/mobile web3 seed identity**
 
-**This all-in-one DeFi BranchMarket (marketplace) hosts the distributed BranchApplications (dApps) that are accessible through the public layer allowing the capability for 3rd parties that extend outside of the C2F blockchain platform to also engage with the global network.**
+**This all-in-one DeFi BranchMarket (marketplace) hosts the distributed BranchApplications (dApps) that are accessible through the public layer allowing the capability for 3rd parties that extend outside of the LifeDeFied blockchain platform to also engage with the global network.**
 
-**The 1st KEY BranchApp you will find in the BranchMarket allows the user or the consortium to branch off into their blockchain ledgers, which initiates the 2nd KEY BranchApp of being able to tokenize multiple forms of physical or digital assets directly through the C2F mobile or desktop BranchApp (dApp).**
+**The 1st KEY BranchApp you will find in the BranchMarket allows the user or the consortium to branch off into their blockchain ledgers, which initiates the 2nd KEY BranchApp of being able to tokenize multiple forms of physical or digital assets directly through the LifeDeFied mobile or desktop BranchApp (dApp).**
 
 **Once the assets are tokenized, they’re assigned a unique hash value along with its corresponding smart contract and further stored on the users or consortium's blockchain ledger. From here they’ll access other KEY BranchApps and services designed for real-world applications that are meant for both the web2 and web3 user.**
 
-**Additionally having the ability to interoperate with other users or consortium blockchain ledgers operating within or outside of the C2F network. This supports the use case of being able to exchange tokenized assets or information between centralized exchanges (CEX) or ledgers (i.e)**\
-**Coinbase and Commercial Banks that revolve around a Government's Central Bank Digital Currency (CBDC).**
+**Additionally having the ability to interoperate with other users or consortium blockchain ledgers operating within or outside of the LifeDeFied platform. This supports the use case of being able to exchange tokenized assets or information between centralized exchanges (CEX) or ledgers (i.e) Coinbase and Commercial Banks that revolve around a Central Bank Digital Currency (CBDC).**
 
-**Our team is proud to be one of the first DeFi PIONEERS in being able to innovate, solve and develop multiple real-world applications that can be accessed through the BranchMarket.**
+**Our team is proud to be one of the first DeFi PIONEERS in being able to innovate, solve and develop multiple LifeDeFied Web3 Services (LD3S) that can be accessed through the public blockchain layer of the platforms BranchMarket.**
 
-**Each user or their consortium will have the capability in being able to tokenize various assets where they can then further manage them on their blockchain ledgers and be able to access a global DeFi marketplace full of decentralized applications**
+**Consumers, businesses and governments will have the capability in being able to tokenize various assets where they can then further manage them on their blockchain ledgers and be able to access a global DeFi marketplace full of decentralized applications**
 
-**This is the next KEY step for the people on a global scale to have a new layer of freedom and branch a new frontier of tokenized information**\
-**Keaton McCune (🔑toshi)**
+**This is the next KEY innovative project for a decentralized non custodial platform to provide its users full custody access to new layer of economic freedom, securities, services and stabilization through tokenization.**
+
+\
+**Keaton McCune (k3ytoshi)**
 
 ## **2 - Tendermint Overview**
 
@@ -306,41 +307,43 @@ I**BC- APP Layer**&#x20;
 
 ![IBC STACK](<.gitbook/assets/Technical Flows - IBC (INNER BLOCKCHAIN COMMUNICATION) .jpg>)
 
-## **4 - BigchainDB Overview**
+## **4 - Nodes, Networks & Consortiums**&#x20;
 
 ### **Introduction**
 
-**BigchainDB is an open-sourced scalable decentralized database that's prepackaged with Tendermint and MongoDB already configured. We can bootstrap this open-source library further and customize an SDK application with the inter-blockchain communication (IBC) protocol fully integrated.**
+**is an open-sourced scalable decentralized database that's prepackaged with Tendermint and MongoDB already configured. We can bootstrap this open-source library further and customize an SDK application with the inter-blockchain communication (IBC) protocol fully integrated.**
 
-**This can then further allow the platform to provide the user or the consortium the capability of being able to quickly branch off into their ChainsBranches but still achieve interoperability within the C2F Network, its HomeTrees, BranchApplications, and other blockchains that even reside out of the network.**
+**This can then further allow the platform to provide the user or the consortium the capability of being able to quickly branch off into their ChainsBranches but still achieve interoperability within the LifeDeFied Platform , its HomeTrees, BranchApplications, and other blockchains that even reside out of the network.**
 
 \
 **We see this being an effective open-source tool in being able to empower the people on a global scale with blockchain ledgers and begin the tokenization process**
 
-### **B-DB Node**
+### **LD-Node(s)**
 
-**A node is a machine or what's also known as a logical machine running on a server. Each node can either be controlled on a user or consortium level. Meaning you’re able to have more than one (node) involved within the specific blockchain network.**\
+**A node is a machine or what's also known as a logical machine running on a server. Each node can either be hosted or controlled by the end user . Meaning you’re able to have more than one (node) involved within the specific blockchain network.**\
 
 
-### **B-DB Network**
+### **LD-Network(s)**
 
-**A set of nodes that are connected arrange what's called a network. Each node within the network is powered by Ignites Tendermint Core. By having multiple nodes within the network you can dedicate certain machines to support a specific BranchApp or become Sentry Nodes with specified Validators.**
+**A set of nodes that are connected arrange what's called a network. Each node within the network is powered by Ignites Tendermint Core. By having multiple nodes within the network you can dedicate certain servers to help support a specific BranchApp or become Sentry Nodes in providing an extra layer of security for the platformsValidators**
 
-### **B-DB Consortium**
+### **LD-Web3 Service(s)**
 
-**Based upon the configuration of the nodes making up the network and the intended utilization. The user nodes can group and form a consortium that can operate both on a private or public layer providing several real-world benefits, including but not limited to…**\
+**Based upon the configuration of the node(s) making up the network(s) and its intended utilization. They can further register themselves as a LifeDeFied Web3 Service (LD3S) where they can further monetize their blockchain network(s) in the form of dApp integrated on the public layer or stay "branched" out within their private layer.**  \
+****\
+&#x20;**Examples may include**\
+**- Family Networks**\
 **- Local Businesses**\
-**- Family households**\
-**- Commercial Banks**\
-**- Credit Unions**\
 **- Niche Communities**\
 **- Enterprise Businesses**\
-**- Government Organizations**\
+**- Public or Private Schools**\
+**- Credit Unions or Local Banks**\
+**- Government Service Providers**\
 **- Non or For-Profit Organizations**\
-**- Public Schools & Universities**\
-**-web2 or web3**
+****\
+****
 
-![HomeTree + ChainBranch + SDK Application](.gitbook/assets/7)
+![](<.gitbook/assets/Technical Flows - Frame 12.jpg>)
 
 ## **5 - Chainlink Overview**
 
@@ -367,10 +370,10 @@ I**BC- APP Layer**&#x20;
 
 ### **OracleTree Application**
 
-**An OracleTree is a dedicated BranchApplication that resides on its ChainBranch. It’s able to support the hybrid use case of Chainlinks DON in being able to access the data that resides off-chain and bringing it further on-chain within the C2F network.**\
+**An OracleTree is a dedicated BranchApplication that resides on its ChainBranch. It’s able to support the hybrid use case of Chainlinks DON in being able to access the data that resides off-chain and bringing it further on-chain within the LifeDeFied Platform.**\
 
 
-**The below flow chart is meant to showcase an example of how the C2F network can integrate the two main components making up the DON to officially dedicate a ChainBranch to act as the “OracleTree” in which it further communicates to its corresponding HomeTree via IBC.**
+**The below flow chart is meant to showcase an example of how the LifeDeFied Platform can integrate the two main components making up the DON to officially dedicate a ChainBranch to act as the “OracleTree” in which it further communicates to its corresponding HomeTree via IBC.**
 
 **From there the user or the consortium ChainBranches can further communicate with the HomeTree to update the current state of their tokenized smart contracts establishing real-time transparency between the physical and digital world (off-chain to on-chain)**\
 
@@ -393,7 +396,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Introduction**
 
-**Every HomeTree and its ChainBranches are powered by Ignites Tendermint core. Each HomeTree is responsible for empowering the rest of the C2F blockchain ecosystem. It's what allows the user or the consortium to branch off into their own blockchain ledgers but still have the capability of being able to interoperate with each other including the network's BranchApplications.**
+**Every HomeTree and its ChainBranches are powered by Ignites Tendermint core. Each HomeTree is responsible for empowering the rest of the LifeDeFied blockchain ecosystem. It's what allows the user or the consortium to branch off into their own blockchain ledgers but still have the capability of being able to interoperate with each other including the network's BranchApplications.**
 
 **Each country revolving around a CBDC can have its own dedicated HomeTree that provides balanced distributional network support with its corresponding HEXTrees, LiquidityTrees, validators, delegators, and liquidity providers (LP).**
 
@@ -405,13 +408,13 @@ I**BC- APP Layer**&#x20;
 
 ### **Global Network**
 
-**True decentralization of a DeFi platform would require the network to interoperate on a global scale within each country that supports a centralized exchange (CEX) and revolves around a Government Central Bank Digital Currency. C2F plans on exactly doing that by “branching” the gaps between all 3 financial sectors which include traditional finance (TradFi), centralized finance (CeFi), and decentralized finance (DeFi).**
+**True decentralization of a DeFi platform would require the network to interoperate on a global scale within each country that supports a centralized exchange (CEX) and revolves around a Government Central Bank Digital Currency. LifeDeFied plans on exactly doing that by “branching” the gaps between all 3 financial sectors which include traditional finance (TradFi), centralized finance (CeFi), and decentralized finance (DeFi).**
 
-**By incorporating a hybrid model of exchange and integrating it further into its own BranchApp, we can have a dedicated ChainBranch act as the HEXTree. With a hybrid exchange (HEX), the C2F network can balance trading pairs that operate around a CBDC and its native C2FCoin including other various cryptocurrency trading pairs. This type of model allows for different types of fiat currency users and centralized crypto users to be a part of the DeFi global network.**
+**By incorporating a hybrid model of exchange and integrating it further into its own BranchApp, we can have a dedicated ChainBranch act as the HEXTree. With a hybrid exchange (HEX), the LifeDeFied platform can balance trading pairs that operate around a CBDC and its native currency (LDUC) including other various cryptocurrency trading pairs. This type of model allows for different types of fiat currency users and centralized crypto users to be a part of the DeFi global network.**
 
 **We can further set a unique ChainID for each country’s HomeTree that is attached to its corresponding HEXTree ChainBranch to further balance the transactions taking place within the exchange and to better establish interoperability within that Government's specific CBDC model.**
 
-**This type of model is needed for we have yet to understand how the network will behave in processing both types of transactions while still achieving an overall consensus between multiple C2F HomeTree Networks that will be operating in multiple countries that do support a central bank digital currency.**
+**This type of model is needed for we have yet to understand how the network will behave in processing both types of liquidity transactions while still achieving an overall consensus between multiple Consortium HomeTree Networks that will be operating nodes in countries that do support a central bank digital currency.**
 
 ![](<.gitbook/assets/Technical Flows - Frame 21 (2).jpg>)
 
@@ -419,46 +422,46 @@ I**BC- APP Layer**&#x20;
 
 **A hybrid exchange (HEX) involves both aspects of a Centralized Exchange (CEX) and a Decentralized Exchange (DEX). This type of hybrid model is required since most CBDCs will be issued by the government and their central banking system.**
 
-**This hybrid model of exchange allows the C2F network to remain decentralized due to the unique design that allows the user or the consortium to remain in control of their blockchain ledgers, wallets, tokenized assets, information, and decentralized identities (etc).**
+**This hybrid model of exchange allows the LifeDeFied platform to remain decentralized due to the unique design that allows the user or the consortium to remain in control of their blockchain ledgers, wallets, tokenized assets, information, and decentralized identities (etc).**
 
 **What makes the HEXTree ChainBranch unique is that it's not just limited to one network or one CBDC. We’re able to scale these BranchApps out and establish multiple HEXTrees to interoperate within each given country's specified CBDC system.**
 
-**This allows for the platform to have the potential in having mass adoption and interoperability within each sector of the financial system. Without a Hybrid Exchange, the platform would be limited in its overall scalability and adoption.**
+**This allows for the platform to have the potential in having mass adoption and interoperability within each sector of the financial system. Without a Hybrid Exchange, the platform would be limited in its overall scalability and adoption.  By further utilizing LDUC as a decentralized banking digital currency, we're able to achieve true interoperability.**
 
 ### **LiquidityTree (Hybrid Liquidity Pool)**
 
 **With a Hybrid Exchange (HEX) we can support a Hybrid Liquidity Pool to help aid in the process of matching buyers to sellers (traders) within each country to their corresponding HomeTrees and HEXTrees.**
 
-**In C2F terms we refer to this as a LiquidityTree where the user liquidity provider or group of LPs can group ChainBranches to create their BranchPools.**
+**In LifeDeFied terms we refer to this as a LiquidityTree where the user liquidity provider or group of LPs can group ChainBranches to create their BranchPools.**
 
-**These BranchPools when formed together improve the overall liquidity of the HEXTree. This in turn helps facilitate the ordering of pairs of the native platform's native currencies C2FC/C2FT, global central bank digital currencies C2FC/CBDC, and other branched pairings of tokens C2FT/ETH**
+**These BranchPools when formed together improve the overall liquidity of the HEXTree. This in turn helps facilitate the ordering of pairs of the native platform's native currencies LDUC/LDUT, global central bank digital currencies LDUC/CBDC, and other branched pairings of tokens LDUT/ETH**
 
-**The Liquidity Providers (LP) and their BranchPools that contribute to the LiquidityTree are rewarded in the native LP token C2BP (Chain2BranchPool) where they can then further SWAP it for their preferred currency or keep it bonded into the BranchPool where it can continue to accumulate a yield of C2BP.**
+**The Liquidity Providers (LP) and their BranchPools that contribute to the LiquidityTree are rewarded in the native LP token LDLT (LifeDeFied Liquidity Token) where they can then further SWAP it for their preferred currency or keep it bonded into the BranchPool where it can continue to accumulate a yield of LDLT.**
 
-**By having the C2F network operate its native liquidity pool and exchange, we can further optimize and build on top of it to support an order book trading engine with an AMM (automated market maker)**
+**By having the LifeDeFied platform operate its native liquidity pool and exchange, we can further optimize and build on top of it to support an order book trading engine with an AMM (automated market maker)**
 
 ## **7 - Chainbranch Overview**
 
 ### **Introduction**
 
-**ChainBranches are their own blockchain ledgers that are also powered through Ignite's Tendermint Core and the network's native C2FToken (C2FT).**
+**ChainBranches are their own blockchain ledgers that are also powered through Ignite's Tendermint Core and utilize the network's native LifeDeFied Utility Token (LDUT).**
 
 **It’s what allows the user or the consortium to officially have the capability of being able to own and operate these dedicated blockchain ledgers.**
 
 **Each ChainBranch can run on a public and private layer based on the configured permissions which can allow for different applications for the network's BranchApps**
 
-**Through the IBC protocol, Chainbranches can communicate and interoperate with each other including their corresponding HomeTree or even with other blockchain networks that extend outside of the C2F network through what C2F refers to as a dedicated Brancher.**
+**Through the IBC protocol, Chainbranches can communicate and interoperate with each other including their corresponding HomeTree or even with other blockchain networks that extend outside of the LifeDeFied Platform through what is refered to as a dedicated Brancher.**
 
 ![](<.gitbook/assets/Technical Flows (2).jpg>)
 
 \
 **With Ignites Tendermint ABCI, we’re able to configure a specific ChainBranch and BranchApplication to become that dedicated “Brancher” which is a (bridge) interconnecting to other blockchain networks such as Ethereum, Cosmos, Bitcoin, Avalanche, Polkadot (etc)**
 
-**A dedicated Brancher keeps up with the current state of blocks of the other blockchains platform. This allows the C2F network to have the capability of being able to scale out and have complete interoperability within the rest of the web3 ecosystem**
+**A dedicated Brancher keeps up with the current state of blocks of the other blockchains platform. This allows the platform to have the capability of being able to scale out and have complete interoperability within the rest of the web3 ecosystem**
 
 **This type of BranchApplication can provide additional integrations through the ABCI that can further support cross-chain staking of other blockchain network's native currencies.**
 
-**A KEY example would be to have a dedicated Brancher support an additional integration of cross-chain staking swap where the user can stake C2FC into the Cosmos Network in exchange for ATOM which can then also be staked further into the C2F Network.**
+**A KEY example would be to have a dedicated Brancher support an additional integration of a cross-chain staking swap where the user can stake LDUC into the Cosmos Network in exchange for ATOM which can then be staked back into the LifeDeFied Platform.**&#x20;
 
 ### **The Public Layer**
 
@@ -475,50 +478,49 @@ I**BC- APP Layer**&#x20;
 
 **The private layer is online but not communicating to the public layer of that user's ChainBranch. Instead, it operates within its encrypted layer that requires a KEY exchange from another user's public KEY for them to gain access to that user or consortium's private layer.**
 
-**The private layer is also the first step in being able to take tokenized C2FT assets further offline and store them in Cold Storage where it has an additional layer of security protection.**
+**The private layer is also the first step in being able to take tokenized LDUT assets further offline and store them in Cold Storage where it has an additional layer of security protection.**
 
 \
 **In a web2 mindset, we can imagine the cold wallet and the private layer representing a “Savings Account” but again, instead of it being connected to a third party bank, it's connected to that user's private layer of its corresponding blockchain ledger**
 
-### **ChainBranch WMS**
+### **Blockchain WMS**
 
-**By having a BranchApp designed to support a ChainBranch Wallet Management System, the C2F Network can have the user or their consortium be able to exchange and access their tokenized assets of information between each layer with ease.**
+**By having a BranchApp designed to support a Blockchain Wallet Management System, the LifeDeFied platform can have the consumer, business or consortium be able to exchange and access their tokenized assets of information between each layer with ease.**
 
-**For example, if a user had tokenized C2FT assets within their cold wallet (savings account) but needed to make an initial deposit or transfer to the public layer of their ChainBranch. They would make a request to the C2F native BranchApplication to transfer the C2FT asset over into the hot wallet (checking account) where it is now online and active on the network.**
+**For example, if a user had tokenized LDUT assets within their cold wallet (savings account) but needed to make an initial deposit or transfer to the public layer of their ChainBranch. They would make a request over the BWMS to transfer the LDUT asset over IBC  into the hot wallet (checking account) where it is now online and active on the network.**
 
 **The image below reflects a flow process of a Wallet Management System with a Cold Wallet, Hot Wallet, AirGap software, and the public / private layers of ChainBranch blockchain ledger.**
 
-![LifeDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1).jpg>)
+![LifeDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1) (2).jpg>)
 
 ## **8 - BranchApps Overview**
 
 ### **Introduction**
 
-**BranchApplications are innovative DeFi solutions and services that operate in parallel with the C2F Network. They can be further integrated into ChainBranches or can be used by other blockchain platforms and 3rd parties that operate outside of the platform**
+**BranchApplications are innovative DeFi solutions and services that operate in parallel with the LifeDeFied Platform. They can be further integrated into ChainBranches or can be used by other blockchain platforms and 3rd parties that operate outside of the platform**
 
-**The global C2F community of validators or delegators will have the opportunity to vote and propose on future BranchApps they would like to see further innovated, upgraded, and developed further out by the team.**
+**The global community of validators or delegators will have the opportunity to vote and propose on future BranchApps they would like to see further innovated, upgraded, and developed further out by the team.**
 
-**Those who are whitelisted as validators or delegators of the native C2FCoin will be able to test these DeFi BranchApps out further and earn passive rewards by discovering bugs or vulnerabilities in the early beta and alpha stages of testing.**
+**Those who are whitelisted as validators or delegators of the platforms native LDUC will be able to test these DeFi BranchApps out further and earn passive rewards by discovering bugs or vulnerabilities in the early beta and alpha stages of testing.**
 
 ![BranchApp Intergrations + Tendermint Core](<.gitbook/assets/Technical Flows - Frame 5 (1).jpg>)
 
 ### **BranchApplications (BranchApps)**
 
-**The type of BranchApps C2F intends to develop are meant to be used and interoperate within the real world and digital world. (on-chain or off-chain) This includes blockchains that reside outside of the C2F Network.**
+**The type of native BranchApps the platform intends to develop are meant to be used and interoperate within the real world and digital world. (on-chain or off-chain) This includes blockchains that reside outside of the public blockchain layer**
 
-**The KEY aspect of C2F is being able to have both the web2 and web3 users access the BranchApps within the same user interface. Instead of having it all spread out like other blockchain platforms.**
+**Anothe KEY aspect of the platform is being able to have both the web2 and web3 users access the BranchApps within the same user interface. Instead of having it all spread out like other blockchain platforms and projects may unintenitally do.**
 
 \
 **These types of BranchApps are intended to provide the user and the consortium the capability of being able to have an additional layer of freedom in how they’re able to self govern and delegate what they classify to be a digital or physical asset**
 
 ### **ChainBranches**
 
-**The first KEY innovation that has been mentioned is being able to have the user or their consortium branch out into their blockchain ledgers called ChainBranches. These blockchains are heterogeneous meaning they’re able to operate both on a public (permission less) and private (permission-based) layer within the C2F network.**
+**The first KEY innovation that has been mentioned is being able to have the user or their consortium branch out into their blockchain ledgers called ChainBranches. These blockchains are heterogeneous meaning they’re able to operate both on a public (permission less) and private (permission-based) layer within the platform.**
 
 ### **Asset Tokenization** **(Blockchain Codes QR** **NFC - Near Field Communication)**
 
-**The second KEY innovative application that has been mentioned is being able to have the user or their consortium of ChainBranches tokenize their physical or digital assets in the form of the C2FToken and store it onto**\
-**their blockchain ledgers.**
+**The second KEY innovative application that has been mentioned is being able to have the user or their consortium of ChainBranches tokenize their physical or digital assets in the form of the LifeDeFied Utility Tokens and store it ontotheir blockchain ledgers.**
 
 **These types of assets include but are not limited to**\
 **1. Traditional Fiat in the form of cash or cash equivalents, certificates of deposit, checking, and savings accounts, money market accounts, physical cash, treasury bills (etc)**
@@ -551,7 +553,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Blockchain QR Codes**
 
-**QR codes have had a bad rep when people realized they were being misdirected to malicious or forged websites. However, with the C2F network, the users will be able to generate a one-time QR code that has a unique KEY exchange signature for each tokenized smart contract and its corresponding whitelist of addresses.**
+**QR codes have had a bad rep when people realized they were being misdirected to malicious or forged websites. However, with the platform, the users will be able to generate a one-time QR code that has a unique KEY exchange signature for each tokenized smart contract and its corresponding whitelist of addresses.**
 
 **These QR-coded smart contracts are then uploaded to the blockchain to where they can’t be obstructed, hacked, forged, or copied due to the unique pairing of their hash values.**
 
@@ -570,23 +572,23 @@ I**BC- APP Layer**&#x20;
 
 **We’re able to integrate certain open software into the ChainBranch Wallet Management System and have it be accessible for download on the native app store both for iOS or Android users.**
 
-**The C2F Mobile App would be able to interact and transact with other devices that support NFC. This allows for offline or online payments to occur. Due to the nature of most smartphones and devices today that have physical memory allocation, the user can transfer their tokenized C2FT asset into the phone's memory which can be in the form of a hard wallet and further support cold storage capabilities.**
+**The LifeDeFied Mobile Wallet can interact and transact with other devices that support NFC. This allows for offline or online payments to occur. Due to the nature of most smartphones and devices today that have physical memory allocation, the user can transfer their tokenized LDUT asset into the phone's memory which can be in the form of a hard wallet and further support cold storage capabilities.**
 
-**The mobile wallet itself can further be used when there is no access to the internet and if desired the C2F community of validators or delegators can propose having the network provide a physical card that's able to interact with the mobile device.**
+**The mobile wallet itself can further be used when there is no access to the internet and if desired the community of validators or delegators can propose having the network provide a physical card that's able to interact with the mobile device.**
 
 ### **Lending & Borrowing**
 
-**The third KEY innovative aspect is having the user or the consortium have the option of being able to lend out their tokenized assets or borrow from others within the C2F ecosystem.**
+**The third KEY innovative aspect is having the user or the consortium have the option of being able to lend out their tokenized assets or borrow from others within the platform**
 
-**This is possible through the assets being in the form of a tokenized smart contract and holding the value of the C2FToken where the user could list it further on the BranchMarket or privately with their consortium.**
+**This is possible through the assets being in the form of a tokenized smart contract and holding the value of the LifeDeFied Utility Token where the user could list it further on the BranchMarket or privately with their consortium.**
 
-**One could for example lend or borrow from their family, friend, or their community with a lower interest rate instead of having to go through a third-party bank where the interest rate is most likely higher.**
+**One could for example lend or borrow from their family, friend, or their business with a lower interest rate instead of having to go through a third-party bank where the interest rate is most likely higher.**
 
 ### **Insurance Security Pools**
 
-**The fourth KEY innovative aspect is having the user or the consortium have the option of being able to ensure their tokenized assets through the native C2FToken.**
+**The fourth KEY innovative aspect is having the user or the consortium have the option of being able to ensure their tokenized assets through the native LifeDeFied Utility Token.**
 
-**We can think of this as a “Staking or Risk Pool” but in C2F we’ll refer to it as an “Insurance Security Pool” where the user or the consortium contributes a percentage of their tokenized assets every month into the pool.**
+**We can think of this as a “Staking or Risk Pool” but in LifeDeFied terms, we’ll refer to it as an “Insurance Security Pool” where the user or the consortium contributes a percentage of their tokenized assets every month into the pool.**
 
 **The smart contract integrated into the Insurance Security Pool BranchApp signs each address and whitelists its public ChainBranch layer to collect a percentage each month based on what type and how many assets they wish to have insured.**
 
@@ -594,7 +596,7 @@ I**BC- APP Layer**&#x20;
 
 **The fifth KEY innovative aspect is having the user or the consortium have the option of being able to store their tokenized assets off the network and staked into cold storage.**
 
-**The user or consortium can further group and form a cold storage staking pool where they can collectively freeze their assets for some time and accumulate additional rewards in the native C2FCoin**
+**The user or consortium can further group and form a cold storage staking pool where they can collectively freeze their assets for some time and accumulate additional rewards in the native LifeDeFied Utility Coin (LDUC)**
 
 ### **Decentralized Identities**
 
@@ -602,30 +604,30 @@ I**BC- APP Layer**&#x20;
 
 **Initially, when they branch off into their ChainBranches they create a unique ChainID that can be further updated through the Native Wallet Management System**
 
-**People living in 3rd world countries can further establish a form of a DID to become interconnected with the rest of the DeFi ecosystem that is meant to help them find their own unique decentralized space within the C2F network and beyond!**
+**People living in 3rd world countries can further establish a form of a DID to become interconnected with the rest of the DeFi ecosystem that is meant to help them find their own unique decentralized space within the platform and grow along side it!**
 
-### **DeFi BranchMarket**
+### **BranchMarket**
 
 **The seventh key innovative aspect is having the user or the consortium access a Decentralized Marketplace where they’re able to exchange, trade, list, sell, buy, advertise (etc) all types of tokenized assets or services on a global scale.**
 
-**We refer to this DeFi marketplace as the BranchMarket and envision it as being the all-in-one DeFi solution in being able to access the rest of the BranchApps and DeFi services offered on the C2F network.**
+**We refer to this marketplace as the BranchMarket and envision it as being the all-in-one solution in being able to access the rest of the BranchApplications, Blockchain Web3 Services and DeFi Banking Solutions offered on the platform.**
 
 **This DeFi marketplace operates on a public layer with no boundaries, meaning that others outside of the network can use its DeFi BranchApps and services but will experience an out-of-network transaction fee to access the marketplace.**
 
-## **9 - Native Stable Decentralized Coin (LDUC)**
+## **9 - LifeDeFied Utility Coin (LDUC)**
 
 ### **Introduction**
 
 **The Native LDUC is used to stake and secure the overall economic structure of the HomeTree networks, its HEXTrees, LiquidityTrees, and its corresponding ChainBranches that operate within each given country**
 
 **This in turn provides aid in having the capability to interoperate within a world government revolving around a CBDC.**\
-**It also allows the user or the consortium ChainBranches to initially branch off into their blockchain ledgers which happens when they stake their first C2FCoins back into the C2F Network.**
+**It also allows the user or the consortium ChainBranches to initially branch off into their blockchain ledgers when they stake their first LDUC back into the platform.**
 
 ### **Staking Model**
 
-**C2FMembers that own C2FC can vote, validate or even delegate to other validators operating within the network.**
+**Members that own LDUC can vote, validate or even delegate to other validators operating within the network.**
 
-**Staking C2FC back into your Native HomeTree rewards the validators and their delegators who delegate the validators with additional C2FCoins and the minting of additional C2FTokens.**
+**Staking LDUC back into your Native HomeTree rewards the validators and their delegators who delegate the validators with additional LDUC and the minting of additional LDUT being tokenized on the platform.**
 
 **The transaction fees that are collected in-network or from 3rd parties out-of-network network are redistributed back to the leading validators and their delegators staking back into the governance model.**
 
@@ -633,13 +635,13 @@ I**BC- APP Layer**&#x20;
 
 **There will be 2 private fundraisers held before the public fundraiser (ICO). The private ICO is meant for whitelisted investors, partners, family members, friends, contributors, and advisors.**
 
-**Additionally, those who are looking to be a part of the early stages in developing and testing out the C2F Network, its HomeTrees, ChainBranches, BrainchApps, HEXTrees, LiquidityTrees, staking, or BranchPools along with any other KEY integrations will have access to a whitelist spot + additional C2FC airdrop rewards.**
+**Additionally, those who are looking to be a part of the early stages in developing and testing out the LifeDeFied platform, its HomeTrees, ChainBranches, BrainchApps, HEXTrees, LiquidityTrees, staking, or BranchPools along with any other KEY integrations can sign up for early whitelsiting and to recieve airdopped rewards**&#x20;
 
 ### **Private ICO Info**
 
-**The 1st round will be announced in Q3 2022 and will offer a greater discounted rate of C2FC that can be purchased in various forms of currency.**
+**The 1st round will be announced in Q3 2022 and will offer a greater discounted rate of LDUC that can be purchased in various forms of currency.**
 
-**The 2nd round will be announced in Q4 2022 and will offer a lesser discounted rate of C2FC that can be purchased in various forms of currency.**\
+**The 2nd round will be announced in Q4 2022 and will offer a lesser discounted rate of LDUC that can be purchased in various forms of currency.**\
 **(official date, percent, and length of pre-sales will be announced each quarter to the whitelisted contact list )**\
 **Discounted rates can be expected to range from 15% to 30%**
 
@@ -660,34 +662,29 @@ I**BC- APP Layer**&#x20;
 **- 10% Investors, contributors, and strategic partners**\
 **- 5% Towards bounty programs, sponsors, activities, and events**
 
-## **10 - Native Stable NFT Utility Token (LDUT)**
+## **10 - LifeDeFied Uttility Token (LDUT)**
 
 ### **Introduction**
 
-**The Native C2FToken empowers the user and the consortium's ChainBranches in being able to store their tokenized assets and interact with the rest of the network's BranchApps.**
+**The Native LDUT empowers the user and the consortium's ChainBranches in being able to store their tokenized assets and interact with the rest of the network's BranchApps.**
 
 **It provides additional liquidity through BranchPools, lowers transaction fees, aids in transaction speed, and improves the overall security of the Proof of Stake model.**
 
-**Staking C2FC back into the network mints additional C2FTokens**
+**Staking LDUC back into the network helps aid in the processs of freshly minting newley tokenized LDUT**&#x20;
 
-**Users who don’t own C2FC will have the additional option of minting additional C2FT through public exchanges but will encounter a higher transaction fee.**
+**Users who don’t own LDUC will have the additional option of freshly minting their newely tokenized LDUT but will encounter a higher transaction (gas) fee.**
 
-**It’s encouraged to SWAP your C2FT or other assets into C2FC so you can further stake it back into the C2F HomeTree Networks to generate initial or additional C2FTokens.**
-
-**ONE C2FC = TWO C2FT meaning that owning TWO C2FT equals half the value of ONE C2FC**
-
-**Staking ONE C2FC generates TWO C2FT as a reward**\
-**Staking TWO C2FT generates ONE C2FC as a reward**
+**It’s encouraged to SWAP your LDUT or other assets into LDUC so you can further stake it back into the HomeTree Network to help mint initial or newly tokenized LDUT.**
 
 ### **Staking Model**
 
-**The staking process with a C2FToken is a little similar to that of the native C2FCoin however you’re only able to stake C2FT back into the ChainBranches or a C2FT to C2FC Staking Pool.**
+**The staking process with LDUT is a little similar to that of the native LDUC however you’re only able to stake LDUT back into the ChainBranch or a LDUT to LDUC Staking Pool.**
 
-**This encourages the user and the consortium to stake their tokenized C2FT assets back into each other's ChainBranches allowing them to group and have a better chance of becoming a validator or delegator within the C2F Network.**
+**This encourages the user and the consortium to stake their tokenized LDUT assets back into each other's ChainBranches allowing them to group and have a better chance of becoming a validator or delegator within the LifeDeFied platform.**
 
 **Additionally, since they’re also operating within their staking model they can decide the overall percentage distributed back to the leading validators or delegators to those validators within each consortium's network.**
 
-**By further encouraging the community to stake their C2FT into each other's blockchains and providing additional staking methods that are native to the C2F network. We are distributing the overall security of the consensus and providing an additional layer of interchain security for the community involved.**
+**By further encouraging the community to stake their LDUT into each other's blockchains and providing additional staking methods that are native to theplatform. We are distributing the overall security of the consensus and providing an additional layer of interchain security for the community involved.**
 
 ### **Public or Private Staking**
 
@@ -699,21 +696,21 @@ I**BC- APP Layer**&#x20;
 
 ### **Introduction**
 
-**The C2F network takes security very seriously when it comes to ensuring the entire platform is safe from internal or external threat actors. The platform aims to have an entire dedicated in-house security team constantly monitoring the PUBLIC layer of the network, its validators, delegators, ChainBranches, and BranchApplications that also operate on that PUBLIC layer.**
+**The platform takes security very seriously when it comes to ensuring the entire platform is safe from internal or external threat actors. The platform aims to have an entire dedicated in-house security team constantly monitoring the PUBLIC layer of the network, its validators, delegators, ChainBranches, and BranchApplications that also operate on that PUBLIC layer.**
 
 **This is to ensure we are abiding by local and global regulations that operate within each country but still achieve the overall DeFi experience**
 
-**It's also KEY to mention that the KYC process (know your customer) is outsourced to the user or the consortium's local jurisdiction in verifying certain identification or documents related to the tokenization process of their assets**
+**It's also KEY to mention that the KYC process (know your customer) is outsourced to the user or the consortium's local jurisdiction in verifying certain identification or documents related to the tokenization and verifiction process of their info/assets**
 
-**Once it's on the network, C2F will be responsible for KYT (know your transaction) which is common for a DeFi platform to implement to maintain good security practices and to make sure that the network doesn’t support, encourage or revolve around illegal activities**\
+**Once it's on the network, LifeDeFied will be responsible for KYT (know your transaction) which is common for a DeFi platform to implement to maintain good security practices and to make sure that the network doesn’t support, encourage or revolve around illegal activities**\
 **(i.e) crypto money laundering, scams or manipulation, rug pulls (etc).**
 
-**The C2F network is not designed to store your personal information and is meant to simply be the all-in-one DeFi platform in “branching” the gaps for the user or the consortium to take the initial leap into the DeFi space and be able to support them throughout their journey.**\
+**The platform is not designed to store your personal information and is meant to simply be the all-in-one DeFi platform in “branching” the gaps for the user or the consortium to take the initial leap into the DeFi space and be able to support them throughout their journey.**\
 **We aim to innovate and solve multiple areas that are currently flawed within the blockchain space. Therefore we are open to developing new tools and approaching things from a hacker's point of view to find the necessary loopholes to patch them accordingly.**
 
 ### **Open Transparency**
 
-**One KEY aspect that is crucial for the security of the C2F Network is having open transparency with the tooling, software, and code we are using (hence the whitepaper describing each aspect)**
+**One KEY aspect that is crucial for the security of the platform is having open transparency with the tooling, software, and code we are using (hence the whitepaper describing each aspect)**
 
 **This also allows for peer-to-peer reviews to take place on the network. In turn, this speeds up the overall development process by finding KEY bugs, vulnerabilities, and patches during the beta, alpha, or testnet phases before it's released to the public on the mainnet.**
 
@@ -727,7 +724,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Bounty Program**
 
-**Another KEY aspect that we realize at C2F is being able to pay out our friendly neighborhood hackers who find bugs, vulnerabilities, or unseen ways of exploiting the overall code in the C2F Network.**
+**Another KEY aspect that we realize is having the platform reward friendly neighborhood hackers who find bugs, vulnerabilities, or unseen ways of exploiting the overall code.**
 
 **These bounty programs can vary in the size of the reward based on the severity and whether or not they were directly related to the core functionality of the blockchain network.**
 
@@ -735,27 +732,27 @@ I**BC- APP Layer**&#x20;
 
 **However, with that being said, it's our goal to reward our community first when it comes to these bounty programs.**
 
-**The bounty rewards will be paid out in the user's preferred native stable coin before mainnent launch. Anything discovered after the mainnet launch will be issued in C2FCoins or minted C2FTokens based on preference**
+**The bounty rewards will be paid out in the user's preferred native stable coin before mainnent launch. Anything discovered after the mainnet launch will be issued in LDUC or minted LDUT rewards based on preference**
 
 ### **Inter to Outerchain Security**
 
-**With the proof of stake model, the C2F network can distribute the security through the entire PUBLIC and PRIVATE layer of the network with the IBC protocol and interchain security.**
+**With the proof of stake model, the LifeDeFied platform can distribute the security through the entire PUBLIC and PRIVATE layer of the network with the IBC protocol and interchain security.**
 
-**Having both a native coin and a native token to aid in the distributed staking process allows for us to split certain levels but still keep an interchain functionality to prevent a > 51% takeover which is crucial for the user and the consortium's part of the C2F Network.**
+**Having both a native coin and a native token to aid in the distributed staking process allows for us to split certain levels but still keep an interchain functionality to prevent a > 51% takeover which is crucial for the user and the consortium's apart of the platform.**
 
-**With our Hashira Chain Security team, the network can implement additional security BranchApplications, tooling, and features for the user, or the consortium will have access through the BranchMarket.**
+**With an in-house security team, the network caninnovate and  implement additional security BranchApplications, tooling, and features for the user, or the consortium will have access through the BranchMarket.**
 
-**The Harisha Team could implement a Security BranchApp that acts as a global staked security Pool where its validators and delegators are to solely ensure the balance of the global network is optimized and distributed equally through the use case of the pooled native currencies (C2FC/C2FT).**
+**Such a security team, could for example utilized a Security BranchApp that acts as a global staked security Pool where its validators and delegators are to solely ensure the balance of the global network is optimized and distributed equally through the use case of the pooled native currencies.**&#x20;
 
-**These Staked Security Pools would help ensure that each C2F HomeTree Network empowering its corresponding ChainBranches are fully optimized and secured within each given country.**
+**These Staked Security Pools would help ensure that each  HomeTree Network empowering its corresponding ChainBranches are fully optimized and secured within each given country.**
 
-**Additionally, the in-house team could implement another Security BranchApp called the TreeVault which hosts Cold Storage Staking and Liquidity Pools that the user or the consortium can freeze (lock) their tokenized assets from their cold storage wallet.**
+**Additionally, the in-house team could implement another Security BranchApp called the TreeVault which hosts Cold Storage Staking and Liquidity Pools that the user or the consortium can freeze (lock) their tokenized assets from their cold storage wallet. (whitepaperV2)**
 
 **Such tokenized assets the user or the consortium wants to keep in a cold storage vault can vary but in the real world, it would be assets they would have time-locked for several years. Staking these assets would generate a passive yield that's rewarded back once the assets are released from the TreeVault**
 
-**All these methods are a form of in-network interchain security but the C2F Network has the capability of connecting our model with an out-of-network blockchain that also supports their form of interchain security, the Cosmos Hub.**
+**All these methods are a form of in-network interchain security but the platform has the capability of connecting our model with an out-of-network blockchain that also supports their form of interchain security, the Cosmos Hub.**
 
-**You can think of a Cosmos Hub as a port within a city where C2F can dock its network and exchange resources. This has been a KEY design for the Cosmos Network and we see our Brancher being able to establish interoperability between the two and having shared interchain security between both networks.**
+**You can think of a Cosmos Hub as a port within a city where LifeDeFied can dock its network and exchange resources. This has been a KEY design for the Cosmos Network and we see our Brancher being able to establish interoperability between the two and having shared interchain security between both platforms.**
 
 **By having multiple split layers of shared security and utilizing the Cosmos Hub as a port. Both networks will be able to thrive and scale-out further within the web3 ecosystem.**
 
