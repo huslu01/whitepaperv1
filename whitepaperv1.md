@@ -254,7 +254,7 @@ I**BC- APP Layer**&#x20;
 
 **The 5th node is known as a (Sentry Node) and is considered to be the guardian of the validator node in providing access to the rest of the network. Every sentry node should be well connected to the full nodes and may remain dynamic but should maintain a random connection with other Sentry Nodes. It should always be anticipating incoming connections from the validator node and its corresponding backup(s). They never gather or log the validators node address and limit the quality of connected peers.**
 
-![Sentry Node (Guardians) + Lead Validator](.gitbook/assets/5)
+![](<.gitbook/assets/Technical Flows - Frame 20.jpg>)
 
 ## **3 - Inter Blockchain Communication**
 
