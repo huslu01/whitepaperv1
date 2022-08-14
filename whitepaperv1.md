@@ -1,10 +1,10 @@
 ---
-description: Updated to LifeDeFied Terminology
+description: Updated to LIFEDeFied Terminology
 ---
 
 # 📃 Whitepaper.V1
 
-LifeDeFied \
+LIFEDeFied \
 DeFing a New Future\
 **04 | 15 | 22**
 ----------------
@@ -29,11 +29,11 @@ DeFing a New Future\
 **IBC- TAO Layer** \
 I**BC- APP Layer**&#x20;
 
-**4 - BigchainDB Overview**\
+**4 - Nodes, Networks & Consortiums**\
 **Introduction**\
-**B-DB Node** \
-**B-DB Network** \
-**B-DB Consortium**&#x20;
+**LD-Node(s)**\
+**LD-Network(s)** \
+**LD-Web3 Service(s)**
 
 **5 - Chainlink Overview** \
 **Introduction** \
@@ -66,14 +66,14 @@ I**BC- APP Layer**&#x20;
 **Decentralized Identities** \
 **BranchMarket**&#x20;
 
-**9 - LifeDeFied Utility Coin Overview**\
+**9 - LIFEDeFied Utility Coin Overview**\
 **Introduction** \
 **Staking Model** \
 **Private ICO** \
 **Private ICO Info** \
 **Public Fundraiser ICO**&#x20;
 
-**10 - LifeDeFied Utility Token Overview** \
+**10 - LIFEDeFied Utility Token Overview** \
 **Introduction** \
 **Staking Model** \
 **Public to Private Staking**&#x20;
@@ -94,14 +94,14 @@ I**BC- APP Layer**&#x20;
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>ABCI</strong><br><strong>(Application Blockchain Interface)</strong></p> | **ABCI stands for "Application Blockchain Interface". ABCI is the interface between Tendermint (a state-machine replication engine) and your application (the actual state machine)**                                                                                                                                                                                                                                  |
 | **BFT (Byzantine Fault Tolerance)**                                                 | **The property of a system that can resist the class of failures derived from the Byzantine Generals' Problem. This means that a BFT system can continue operating even if some of the nodes fail or act maliciously**                                                                                                                                                                                                 |
-| **Brancher**                                                                        | **A dedicated HomeTree Application for connecting to other blockchain networks that reside outside of the LifeDeFied platfor m (Ethereum, cosmos, Polkadot, avalanche (etc))**                                                                                                                                                                                                                                         |
-| **BranchApps**                                                                      | **LifeDeFied terminology for a decentralized application (dApp) that runs in parallel with the core HomeTree blockchains and ChainBranches**                                                                                                                                                                                                                                                                           |
+| **Brancher**                                                                        | **A dedicated HomeTree Application for connecting to other blockchain networks that reside outside of the LIFEDeFied platform (Ethereum, cosmos, Polkadot, avalanche (etc))**                                                                                                                                                                                                                                          |
+| **BranchApps**                                                                      | **LIFEDeFied terminology for a decentralized application (dApp) that runs in parallel with the core HomeTree blockchains and ChainBranches**                                                                                                                                                                                                                                                                           |
 | **BranchMarket**                                                                    | **The BranchMarket is a DeFi marketplace for listing, exchanging, selling, buying or advertising tokenized LDUT assets. It also contains all the BranchApplications that can be accessed by the user or their consortium as well as 3rd parties that extend outside of the public network.**                                                                                                                           |
 | **Bonding**                                                                         | **The process of staking assets together**                                                                                                                                                                                                                                                                                                                                                                             |
-| **LW3S**                                                                            | <p><strong>Sub name and The acronym used to represent</strong> <br><strong>LifeDeFied Web3 Services</strong></p>                                                                                                                                                                                                                                                                                                       |
-| **LDUC**                                                                            | **LifeDeFied Utility Coin that powers the interoperability between networks of HomeTrees, Chainbranches, BranchApplications and other Blockchains**                                                                                                                                                                                                                                                                    |
-| **LDUT**                                                                            | **LifeDeFied Utility Token that powers the stable dynamic NFT asset tokenization and decentralized applications (dApps) on the public layer of the BranchMarket**                                                                                                                                                                                                                                                      |
-| **LDLT**                                                                            | **LifeDeFied Liquidity Token Reward for Liquidity Providers (LP) pooling their assets together to aid in the exchange process of the HEXTree.**                                                                                                                                                                                                                                                                        |
+| **LW3S**                                                                            | <p><strong>Sub name and The acronym used to represent</strong> <br><strong>LIFEDeFied Web3 Services</strong></p>                                                                                                                                                                                                                                                                                                       |
+| **LDUC**                                                                            | **LIFEDeFied Utility Coin that powers the interoperability between networks of HomeTrees, Chainbranches, BranchApplications and other Blockchains**                                                                                                                                                                                                                                                                    |
+| **LDUT**                                                                            | **LIFEDeFied Utility Token that powers the stable dynamic NFT asset tokenization and decentralized applications (dApps) on the public layer of the BranchMarket**                                                                                                                                                                                                                                                      |
+| **LDLT**                                                                            | **LIFEDeFied Liquidity Token Reward for Liquidity Providers (LP) pooling their assets together to aid in the exchange process of the HEXTree.**                                                                                                                                                                                                                                                                        |
 | **CBDC (Central Bank Digital Currency)**                                            | **A central bank's digital currency is the digital form of a country's fiat currency. A CBDC is issued and regulated by a nation's monetary authority or central bank**                                                                                                                                                                                                                                                |
 | <p><strong>CeFi</strong><br><strong>(Centralized Finance)</strong></p>              | **CeFi, short for centralized finance, offers some of the yield benefits of DeFi with some of the ease of use and security of traditional financial-services products**                                                                                                                                                                                                                                                |
 | <p><strong>CEX</strong><br><strong>(Centralized Exchange)</strong></p>              | **Centralized Exchanges (CEX) are a type of cryptocurrency exchange which requires the need of an intermediary third party for transactions to take place. Usually in the case of FIAT.**                                                                                                                                                                                                                              |
@@ -119,7 +119,7 @@ I**BC- APP Layer**&#x20;
 | **Hardware Wallet**                                                                 | **Hardware wallets are a form of offline storage. A hardware wallet is a cryptocurrency wallet that stores the user's private keys (a critical piece of information used to authorize outgoing transactions on the blockchain network) in a secure hardware device**                                                                                                                                                   |
 | <p><strong>HEX</strong><br><strong>(Hybrid Exchange)</strong></p>                   | **A hybrid crypto exchange (HEX) provides users with access to their private keys and aims to solve the scalability issues of decentralized exchanges**                                                                                                                                                                                                                                                                |
 | **HEXTree**                                                                         | **A Hybrid Distributed exchange that's interconnected to the HomeTree. The HEXTree provides fast distribution custody of funds for both fiat and crypto users**                                                                                                                                                                                                                                                        |
-| **HomeTree**                                                                        | **The HomeTree is the public layer of the LifeDeFid blockchain network. Each HomeTree acts as a “root” custodian facilitating the movement of coins/tokens within the network of other HomeTrees.**                                                                                                                                                                                                                    |
+| **HomeTree**                                                                        | **The HomeTree is the public layer of the LIFEDeFied blockchain network. Each HomeTree acts as a “root” custodian facilitating the movement of coins/tokens within the network of other HomeTrees.**                                                                                                                                                                                                                   |
 | **Hot Wallet**                                                                      | **A hot wallet can also be called a software wallet. It's a form of digital storage that you can access on your computer or phone and is connected to the internet. Because of the internet connection, hot wallets are not as secure as a cold wallets**                                                                                                                                                              |
 | <p><strong>ICO</strong><br><strong>(Initial Coin Offering)</strong></p>             | **An initial coin offering (ICO) is the cryptocurrency industry's equivalent to an initial public offering (IPO)**                                                                                                                                                                                                                                                                                                     |
 | <p><strong>IBC</strong><br><strong>(Inter Blockchain Communication)</strong></p>    | **The Inter‐Blockchain Communication Protocol (IBC), an open‐source protocol for relaying messages between independently distributed ledgers**                                                                                                                                                                                                                                                                         |
@@ -136,10 +136,10 @@ I**BC- APP Layer**&#x20;
 | <p><strong>NFT</strong><br><strong>(Non-Fungible Token)</strong></p>                | **A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of a distributed ledger. The ownership of an NFT is recorded in the blockchain and can be transferred by the owner, allowing NFTs to be sold and traded**                                                                                                                                                     |
 | **Node**                                                                            | **Nodes form the infrastructure of a blockchain. All nodes on a blockchain are connected and they constantly exchange the latest blockchain data with each other so all nodes stay up to date. They store, spread, and preserve the blockchain data, so theoretically a blockchain exists on nodes. A full node is a device (like a computer) that contains a full copy of the transaction history of the blockchain** |
 | **OracleTree**                                                                      | **The OracleTree is a term for a dedicated Chainlink DON integration that's connected to the HomeTree to update off-chain events on-chain to its corresponding ChainBranches and their dynamic tokenized smart contracts**                                                                                                                                                                                             |
-| <p><strong>Private ICO</strong><br><strong>(Initial Coin Offering)</strong></p>     | **A private ICO is for a pre-selected group of investors, partners, contributors and advisors to acquire LDUC at a discounted rate to test certain functionality of the LifeDeFied platform before its ICO**                                                                                                                                                                                                           |
+| <p><strong>Private ICO</strong><br><strong>(Initial Coin Offering)</strong></p>     | **A private ICO is for a pre-selected group of investors, partners, contributors and advisors to acquire LDUC at a discounted rate to test certain functionality of the LIFEDeFied platform before its ICO**                                                                                                                                                                                                           |
 | **Smart Contract**                                                                  | **A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control, or document legally relevant events and actions according to its terms.**                                                                                                                                                                                                                       |
 | **Staking**                                                                         | **offers crypto holders a way of putting their digital assets to work and earning passive income without needing to sell them. You can think of staking as the crypto equivalent of putting money in a high-yield savings account**                                                                                                                                                                                    |
-| **Validator**                                                                       | **A validator runs a full node and is selected based on the overall amount of staked LDUC. Each validator is responsible for participating and securing the overall consensus of the LifeDeFied Platform , its HomeTrees, and ChainBranches which include the user or their consortium**                                                                                                                               |
+| **Validator**                                                                       | **A validator runs a full node and is selected based on the overall amount of staked LDUC. Each validator is responsible for participating and securing the overall consensus of the LIFEDeFied Platform , its HomeTrees, and ChainBranches which include the user or their consortium**                                                                                                                               |
 | **Web2**                                                                            | **Web2 refers to websites that emphasize user-generated content, ease of use, participatory culture, and interoperability for end users**                                                                                                                                                                                                                                                                              |
 | **Web3**                                                                            | **Web3 is an idea for a new iteration of the World Wide Web-based on blockchain technology, which incorporates concepts such as decentralization and token-based economics**                                                                                                                                                                                                                                           |
 | **WMS**                                                                             | **Wallet management system is a program designed to facilitate the management of multiple virtual currency wallets from a single interface. Institutional or retail crypto investors can use it.**                                                                                                                                                                                                                     |
@@ -313,7 +313,7 @@ I**BC- APP Layer**&#x20;
 
 **is an open-sourced scalable decentralized database that's prepackaged with Tendermint and MongoDB already configured. We can bootstrap this open-source library further and customize an SDK application with the inter-blockchain communication (IBC) protocol fully integrated.**
 
-**This can then further allow the platform to provide the user or the consortium the capability of being able to quickly branch off into their ChainsBranches but still achieve interoperability within the LifeDeFied Platform , its HomeTrees, BranchApplications, and other blockchains that even reside out of the network.**
+**This can then further allow the platform to provide the user or the consortium the capability of being able to quickly branch off into their ChainsBranches but still achieve interoperability within the LIFEDeFied Platform , its HomeTrees, BranchApplications, and other blockchains that even reside out of the network.**
 
 \
 **We see this being an effective open-source tool in being able to empower the people on a global scale with blockchain ledgers and begin the tokenization process**
@@ -329,7 +329,7 @@ I**BC- APP Layer**&#x20;
 
 ### **LD-Web3 Service(s)**
 
-**Based upon the configuration of the node(s) making up the network(s) and its intended utilization. They can further register themselves as a LifeDeFied Web3 Service (LD3S) where they can further monetize their blockchain network(s) in the form of dApp integrated on the public layer or stay "branched" out within their private layer.**  \
+**Based upon the configuration of the node(s) making up the network(s) and its intended utilization. They can further register themselves as a LIFEDeFied Web3 Service (LD3S) where they can further monetize their blockchain network(s) in the form of dApp integrated on the public layer or stay "branched" out within their private layer.**  \
 ****\
 &#x20;**Examples may include**\
 **- Family Networks**\
@@ -370,10 +370,10 @@ I**BC- APP Layer**&#x20;
 
 ### **OracleTree Application**
 
-**An OracleTree is a dedicated BranchApplication that resides on its ChainBranch. It’s able to support the hybrid use case of Chainlinks DON in being able to access the data that resides off-chain and bringing it further on-chain within the LifeDeFied Platform.**\
+**An OracleTree is a dedicated BranchApplication that resides on its ChainBranch. It’s able to support the hybrid use case of Chainlinks DON in being able to access the data that resides off-chain and bringing it further on-chain within the LIFEDeFied Platform.**\
 
 
-**The below flow chart is meant to showcase an example of how the LifeDeFied Platform can integrate the two main components making up the DON to officially dedicate a ChainBranch to act as the “OracleTree” in which it further communicates to its corresponding HomeTree via IBC.**
+**The below flow chart is meant to showcase an example of how the LIFEDeFied Platform can integrate the two main components making up the DON to officially dedicate a ChainBranch to act as the “OracleTree” in which it further communicates to its corresponding HomeTree via IBC.**
 
 **From there the user or the consortium ChainBranches can further communicate with the HomeTree to update the current state of their tokenized smart contracts establishing real-time transparency between the physical and digital world (off-chain to on-chain)**\
 
@@ -396,7 +396,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Introduction**
 
-**Every HomeTree and its ChainBranches are powered by Ignites Tendermint core. Each HomeTree is responsible for empowering the rest of the LifeDeFied blockchain ecosystem. It's what allows the user or the consortium to branch off into their own blockchain ledgers but still have the capability of being able to interoperate with each other including the network's BranchApplications.**
+**Every HomeTree and its ChainBranches are powered by Ignites Tendermint core. Each HomeTree is responsible for empowering the rest of the LIFEDeFied blockchain ecosystem. It's what allows the user or the consortium to branch off into their own blockchain ledgers but still have the capability of being able to interoperate with each other including the network's BranchApplications.**
 
 **Each country revolving around a CBDC can have its own dedicated HomeTree that provides balanced distributional network support with its corresponding HEXTrees, LiquidityTrees, validators, delegators, and liquidity providers (LP).**
 
@@ -408,9 +408,9 @@ I**BC- APP Layer**&#x20;
 
 ### **Global Network**
 
-**True decentralization of a DeFi platform would require the network to interoperate on a global scale within each country that supports a centralized exchange (CEX) and revolves around a Government Central Bank Digital Currency. LifeDeFied plans on exactly doing that by “branching” the gaps between all 3 financial sectors which include traditional finance (TradFi), centralized finance (CeFi), and decentralized finance (DeFi).**
+**True decentralization of a DeFi platform would require the network to interoperate on a global scale within each country that supports a centralized exchange (CEX) and revolves around a Government Central Bank Digital Currency. LIFEDeFied plans on exactly doing that by “branching” the gaps between all 3 financial sectors which include traditional finance (TradFi), centralized finance (CeFi), and decentralized finance (DeFi).**
 
-**By incorporating a hybrid model of exchange and integrating it further into its own BranchApp, we can have a dedicated ChainBranch act as the HEXTree. With a hybrid exchange (HEX), the LifeDeFied platform can balance trading pairs that operate around a CBDC and its native currency (LDUC) including other various cryptocurrency trading pairs. This type of model allows for different types of fiat currency users and centralized crypto users to be a part of the DeFi global network.**
+**By incorporating a hybrid model of exchange and integrating it further into its own BranchApp, we can have a dedicated ChainBranch act as the HEXTree. With a hybrid exchange (HEX), the LIFEDeFied platform can balance trading pairs that operate around a CBDC and its native currency (LDUC) including other various cryptocurrency trading pairs. This type of model allows for different types of fiat currency users and centralized crypto users to be a part of the DeFi global network.**
 
 **We can further set a unique ChainID for each country’s HomeTree that is attached to its corresponding HEXTree ChainBranch to further balance the transactions taking place within the exchange and to better establish interoperability within that Government's specific CBDC model.**
 
@@ -422,7 +422,7 @@ I**BC- APP Layer**&#x20;
 
 **A hybrid exchange (HEX) involves both aspects of a Centralized Exchange (CEX) and a Decentralized Exchange (DEX). This type of hybrid model is required since most CBDCs will be issued by the government and their central banking system.**
 
-**This hybrid model of exchange allows the LifeDeFied platform to remain decentralized due to the unique design that allows the user or the consortium to remain in control of their blockchain ledgers, wallets, tokenized assets, information, and decentralized identities (etc).**
+**This hybrid model of exchange allows the LIFEDeFied platform to remain decentralized due to the unique design that allows the user or the consortium to remain in control of their blockchain ledgers, wallets, tokenized assets, information, and decentralized identities (etc).**
 
 **What makes the HEXTree ChainBranch unique is that it's not just limited to one network or one CBDC. We’re able to scale these BranchApps out and establish multiple HEXTrees to interoperate within each given country's specified CBDC system.**
 
@@ -432,25 +432,25 @@ I**BC- APP Layer**&#x20;
 
 **With a Hybrid Exchange (HEX) we can support a Hybrid Liquidity Pool to help aid in the process of matching buyers to sellers (traders) within each country to their corresponding HomeTrees and HEXTrees.**
 
-**In LifeDeFied terms we refer to this as a LiquidityTree where the user liquidity provider or group of LPs can group ChainBranches to create their BranchPools.**
+**In LIFEDeFied terms we refer to this as a LiquidityTree where the user liquidity provider or group of LPs can group ChainBranches to create their BranchPools.**
 
 **These BranchPools when formed together improve the overall liquidity of the HEXTree. This in turn helps facilitate the ordering of pairs of the native platform's native currencies LDUC/LDUT, global central bank digital currencies LDUC/CBDC, and other branched pairings of tokens LDUT/ETH**
 
-**The Liquidity Providers (LP) and their BranchPools that contribute to the LiquidityTree are rewarded in the native LP token LDLT (LifeDeFied Liquidity Token) where they can then further SWAP it for their preferred currency or keep it bonded into the BranchPool where it can continue to accumulate a yield of LDLT.**
+**The Liquidity Providers (LP) and their BranchPools that contribute to the LiquidityTree are rewarded in the native LP token LDLT (LIFEDeFied Liquidity Token) where they can then further SWAP it for their preferred currency or keep it bonded into the BranchPool where it can continue to accumulate a yield of LDLT.**
 
-**By having the LifeDeFied platform operate its native liquidity pool and exchange, we can further optimize and build on top of it to support an order book trading engine with an AMM (automated market maker)**
+**By having the LIFEDeFied platform operate its native liquidity pool and exchange, we can further optimize and build on top of it to support an order book trading engine with an AMM (automated market maker)**
 
 ## **7 - Chainbranch Overview**
 
 ### **Introduction**
 
-**ChainBranches are their own blockchain ledgers that are also powered through Ignite's Tendermint Core and utilize the network's native LifeDeFied Utility Token (LDUT).**
+**ChainBranches are their own blockchain ledgers that are also powered through Ignite's Tendermint Core and utilize the network's native LIFEDeFied Utility Token (LDUT).**
 
 **It’s what allows the user or the consortium to officially have the capability of being able to own and operate these dedicated blockchain ledgers.**
 
 **Each ChainBranch can run on a public and private layer based on the configured permissions which can allow for different applications for the network's BranchApps**
 
-**Through the IBC protocol, Chainbranches can communicate and interoperate with each other including their corresponding HomeTree or even with other blockchain networks that extend outside of the LifeDeFied Platform through what is refered to as a dedicated Brancher.**
+**Through the IBC protocol, Chainbranches can communicate and interoperate with each other including their corresponding HomeTree or even with other blockchain networks that extend outside of the LIFEDeFied  Platform through what is refered to as a dedicated Brancher.**
 
 ![](<.gitbook/assets/Technical Flows (2).jpg>)
 
@@ -461,7 +461,7 @@ I**BC- APP Layer**&#x20;
 
 **This type of BranchApplication can provide additional integrations through the ABCI that can further support cross-chain staking of other blockchain network's native currencies.**
 
-**A KEY example would be to have a dedicated Brancher support an additional integration of a cross-chain staking swap where the user can stake LDUC into the Cosmos Network in exchange for ATOM which can then be staked back into the LifeDeFied Platform.**&#x20;
+**A KEY example would be to have a dedicated Brancher support an additional integration of a cross-chain staking swap where the user can stake LDUC into the Cosmos Network in exchange for ATOM which can then be staked back into the LIFEDeFied Platform.**&#x20;
 
 ### **The Public Layer**
 
@@ -485,19 +485,19 @@ I**BC- APP Layer**&#x20;
 
 ### **Blockchain WMS**
 
-**By having a BranchApp designed to support a Blockchain Wallet Management System, the LifeDeFied platform can have the consumer, business or consortium be able to exchange and access their tokenized assets of information between each layer with ease.**
+**By having a BranchApp designed to support a Blockchain Wallet Management System, the LIFEDeFied platform can have the consumer, business or consortium be able to exchange and access their tokenized assets of information between each layer with ease.**
 
 **For example, if a user had tokenized LDUT assets within their cold wallet (savings account) but needed to make an initial deposit or transfer to the public layer of their ChainBranch. They would make a request over the BWMS to transfer the LDUT asset over IBC  into the hot wallet (checking account) where it is now online and active on the network.**
 
 **The image below reflects a flow process of a Wallet Management System with a Cold Wallet, Hot Wallet, AirGap software, and the public / private layers of ChainBranch blockchain ledger.**
 
-![LifeDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1) (2).jpg>)
+![LIFEDeFied Bank Account Wallet Backend](<.gitbook/assets/Technical Flows - Frame 16 (1) (2).jpg>)
 
 ## **8 - BranchApps Overview**
 
 ### **Introduction**
 
-**BranchApplications are innovative DeFi solutions and services that operate in parallel with the LifeDeFied Platform. They can be further integrated into ChainBranches or can be used by other blockchain platforms and 3rd parties that operate outside of the platform**
+**BranchApplications are innovative DeFi solutions and services that operate in parallel with the LIFEDeFied Platform. They can be further integrated into ChainBranches or can be used by other blockchain platforms and 3rd parties that operate outside of the platform**
 
 **The global community of validators or delegators will have the opportunity to vote and propose on future BranchApps they would like to see further innovated, upgraded, and developed further out by the team.**
 
@@ -520,7 +520,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Asset Tokenization** **(Blockchain Codes QR** **NFC - Near Field Communication)**
 
-**The second KEY innovative application that has been mentioned is being able to have the user or their consortium of ChainBranches tokenize their physical or digital assets in the form of the LifeDeFied Utility Tokens and store it ontotheir blockchain ledgers.**
+**The second KEY innovative application that has been mentioned is being able to have the user or their consortium of ChainBranches tokenize their physical or digital assets in the form of the LIFEDeFied Utility Tokens and store it ontotheir blockchain ledgers.**
 
 **These types of assets include but are not limited to**\
 **1. Traditional Fiat in the form of cash or cash equivalents, certificates of deposit, checking, and savings accounts, money market accounts, physical cash, treasury bills (etc)**
@@ -572,7 +572,7 @@ I**BC- APP Layer**&#x20;
 
 **We’re able to integrate certain open software into the ChainBranch Wallet Management System and have it be accessible for download on the native app store both for iOS or Android users.**
 
-**The LifeDeFied Mobile Wallet can interact and transact with other devices that support NFC. This allows for offline or online payments to occur. Due to the nature of most smartphones and devices today that have physical memory allocation, the user can transfer their tokenized LDUT asset into the phone's memory which can be in the form of a hard wallet and further support cold storage capabilities.**
+**The LIFEDeFied Mobile Wallet can interact and transact with other devices that support NFC. This allows for offline or online payments to occur. Due to the nature of most smartphones and devices today that have physical memory allocation, the user can transfer their tokenized LDUT asset into the phone's memory which can be in the form of a hard wallet and further support cold storage capabilities.**
 
 **The mobile wallet itself can further be used when there is no access to the internet and if desired the community of validators or delegators can propose having the network provide a physical card that's able to interact with the mobile device.**
 
@@ -580,15 +580,15 @@ I**BC- APP Layer**&#x20;
 
 **The third KEY innovative aspect is having the user or the consortium have the option of being able to lend out their tokenized assets or borrow from others within the platform**
 
-**This is possible through the assets being in the form of a tokenized smart contract and holding the value of the LifeDeFied Utility Token where the user could list it further on the BranchMarket or privately with their consortium.**
+**This is possible through the assets being in the form of a tokenized smart contract and holding the value of the LIFEDeFied Utility Token where the user could list it further on the BranchMarket or privately with their consortium.**
 
 **One could for example lend or borrow from their family, friend, or their business with a lower interest rate instead of having to go through a third-party bank where the interest rate is most likely higher.**
 
 ### **Insurance Security Pools**
 
-**The fourth KEY innovative aspect is having the user or the consortium have the option of being able to ensure their tokenized assets through the native LifeDeFied Utility Token.**
+**The fourth KEY innovative aspect is having the user or the consortium have the option of being able to ensure their tokenized assets through the native LIFEDeFied Utility Token.**
 
-**We can think of this as a “Staking or Risk Pool” but in LifeDeFied terms, we’ll refer to it as an “Insurance Security Pool” where the user or the consortium contributes a percentage of their tokenized assets every month into the pool.**
+**We can think of this as a “Staking or Risk Pool” but in LIFEDeFied terms, we’ll refer to it as an “Insurance Security Pool” where the user or the consortium contributes a percentage of their tokenized assets every month into the pool.**
 
 **The smart contract integrated into the Insurance Security Pool BranchApp signs each address and whitelists its public ChainBranch layer to collect a percentage each month based on what type and how many assets they wish to have insured.**
 
@@ -596,7 +596,7 @@ I**BC- APP Layer**&#x20;
 
 **The fifth KEY innovative aspect is having the user or the consortium have the option of being able to store their tokenized assets off the network and staked into cold storage.**
 
-**The user or consortium can further group and form a cold storage staking pool where they can collectively freeze their assets for some time and accumulate additional rewards in the native LifeDeFied Utility Coin (LDUC)**
+**The user or consortium can further group and form a cold storage staking pool where they can collectively freeze their assets for some time and accumulate additional rewards in the native LIFEDeFied Utility Coin (LDUC)**
 
 ### **Decentralized Identities**
 
@@ -614,7 +614,7 @@ I**BC- APP Layer**&#x20;
 
 **This DeFi marketplace operates on a public layer with no boundaries, meaning that others outside of the network can use its DeFi BranchApps and services but will experience an out-of-network transaction fee to access the marketplace.**
 
-## **9 - LifeDeFied Utility Coin (LDUC)**
+## **9 - LIFEDeFied Utility Coin (LDUC)**
 
 ### **Introduction**
 
@@ -635,7 +635,7 @@ I**BC- APP Layer**&#x20;
 
 **There will be 2 private fundraisers held before the public fundraiser (ICO). The private ICO is meant for whitelisted investors, partners, family members, friends, contributors, and advisors.**
 
-**Additionally, those who are looking to be a part of the early stages in developing and testing out the LifeDeFied platform, its HomeTrees, ChainBranches, BrainchApps, HEXTrees, LiquidityTrees, staking, or BranchPools along with any other KEY integrations can sign up for early whitelsiting and to recieve airdopped rewards**&#x20;
+**Additionally, those who are looking to be a part of the early stages in developing and testing out the LIFEDeFied platform, its HomeTrees, ChainBranches, BrainchApps, HEXTrees, LiquidityTrees, staking, or BranchPools along with any other KEY integrations can sign up for early whitelsiting and to recieve airdopped rewards**&#x20;
 
 ### **Private ICO Info**
 
@@ -662,7 +662,7 @@ I**BC- APP Layer**&#x20;
 **- 10% Investors, contributors, and strategic partners**\
 **- 5% Towards bounty programs, sponsors, activities, and events**
 
-## **10 - LifeDeFied Uttility Token (LDUT)**
+## **10 - LIFEDeFied Utility Token (LDUT)**
 
 ### **Introduction**
 
@@ -680,7 +680,7 @@ I**BC- APP Layer**&#x20;
 
 **The staking process with LDUT is a little similar to that of the native LDUC however you’re only able to stake LDUT back into the ChainBranch or a LDUT to LDUC Staking Pool.**
 
-**This encourages the user and the consortium to stake their tokenized LDUT assets back into each other's ChainBranches allowing them to group and have a better chance of becoming a validator or delegator within the LifeDeFied platform.**
+**This encourages the user and the consortium to stake their tokenized LDUT assets back into each other's ChainBranches allowing them to group and have a better chance of becoming a validator or delegator within the LIFEDeFied platform.**
 
 **Additionally, since they’re also operating within their staking model they can decide the overall percentage distributed back to the leading validators or delegators to those validators within each consortium's network.**
 
@@ -700,9 +700,9 @@ I**BC- APP Layer**&#x20;
 
 **This is to ensure we are abiding by local and global regulations that operate within each country but still achieve the overall DeFi experience**
 
-**It's also KEY to mention that the KYC process (know your customer) is outsourced to the user or the consortium's local jurisdiction in verifying certain identification or documents related to the tokenization and verifiction process of their info/assets**
+**It's also KEY to mention that the KYC process (know your customer) is outsourced to the user or the consortium's local jurisdiction in verifying certain identification or documents related to the tokenization and verification process of their info/assets**
 
-**Once it's on the network, LifeDeFied will be responsible for KYT (know your transaction) which is common for a DeFi platform to implement to maintain good security practices and to make sure that the network doesn’t support, encourage or revolve around illegal activities**\
+**Once it's on the network, LIFEDeFied will be responsible for KYT (know your transaction) which is common for a DeFi platform to implement to maintain good security practices and to make sure that the network doesn’t support, encourage or revolve around illegal activities**\
 **(i.e) crypto money laundering, scams or manipulation, rug pulls (etc).**
 
 **The platform is not designed to store your personal information and is meant to simply be the all-in-one DeFi platform in “branching” the gaps for the user or the consortium to take the initial leap into the DeFi space and be able to support them throughout their journey.**\
@@ -736,7 +736,7 @@ I**BC- APP Layer**&#x20;
 
 ### **Inter to Outerchain Security**
 
-**With the proof of stake model, the LifeDeFied platform can distribute the security through the entire PUBLIC and PRIVATE layer of the network with the IBC protocol and interchain security.**
+**With the proof of stake model, the LIFEDeFied platform can distribute the security through the entire PUBLIC and PRIVATE layer of the network with the IBC protocol and interchain security.**
 
 **Having both a native coin and a native token to aid in the distributed staking process allows for us to split certain levels but still keep an interchain functionality to prevent a > 51% takeover which is crucial for the user and the consortium's apart of the platform.**
 
@@ -752,7 +752,7 @@ I**BC- APP Layer**&#x20;
 
 **All these methods are a form of in-network interchain security but the platform has the capability of connecting our model with an out-of-network blockchain that also supports their form of interchain security, the Cosmos Hub.**
 
-**You can think of a Cosmos Hub as a port within a city where LifeDeFied can dock its network and exchange resources. This has been a KEY design for the Cosmos Network and we see our Brancher being able to establish interoperability between the two and having shared interchain security between both platforms.**
+**You can think of a Cosmos Hub as a port within a city where LIFEDeFied can dock its network and exchange resources. This has been a KEY design for the Cosmos Network and we see our Brancher being able to establish interoperability between the two and having shared interchain security between both platforms.**
 
 **By having multiple split layers of shared security and utilizing the Cosmos Hub as a port. Both networks will be able to thrive and scale-out further within the web3 ecosystem.**
 
